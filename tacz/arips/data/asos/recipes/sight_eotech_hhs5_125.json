@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"result": {
+		"item": "tacz:attachment",
+		"nbt": {
+			"AttachmentId": "asos:sight_eotech_hhs5_ogl_ftc_nozoom"
+		}
+	},
+	"ingredients": [
+		{
+			"type":"forge:partial_nbt",
+			"item": "tacz:attachment",
+			"nbt": {
+				"AttachmentId": "asos:sight_eotech_hhs5_ogl_ftc"
+			}
+		}
+	]
+}

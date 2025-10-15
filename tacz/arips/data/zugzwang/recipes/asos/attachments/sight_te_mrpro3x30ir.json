@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 26
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "asos:sight_te_mrpro3x30ir"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

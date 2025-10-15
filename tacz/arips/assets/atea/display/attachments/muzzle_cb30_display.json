@@ -1,0 +1,9 @@
+{
+  "slot": "atea:attachment/slot/muzzle_cb30",
+  "model": "atea:attachment/muzzle_cb30_geo",
+  "texture": "atea:attachment/uv/muzzle_cb30",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

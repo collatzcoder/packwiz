@@ -1,0 +1,7 @@
+{
+  "name": "asos.attachment.sight_vortex_venom_rd.name",
+  "tooltip": "asos.attachment.sight_vortex_venom_rd.desc",
+  "display": "asos:sight_vortex_venom_rd_display",
+  "data": "asos:sight00_minuscule_data",
+  "type": "scope"
+}

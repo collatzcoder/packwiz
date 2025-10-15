@@ -1,0 +1,7 @@
+{
+  "name": "asos.attachment.laser_eotech_ogl.name",
+  "tooltip": "asos.attachment.laser_eotech_ogl.desc",
+  "display": "asos:laser_eotech_ogl_display",
+  "data": "asos:laser_eotech_ogl_data",
+  "type": "laser"
+}

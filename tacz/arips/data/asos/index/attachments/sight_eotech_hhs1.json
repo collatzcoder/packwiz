@@ -1,0 +1,7 @@
+{
+  "name": "asos.attachment.sight_eotech_hhs1.name",
+  "tooltip": "asos.attachment.sight_eotech_hhs1.desc",
+  "display": "asos:sight_eotech_hhs1_display",
+  "data": "asos:sight40_small_data",
+  "type": "scope"
+}

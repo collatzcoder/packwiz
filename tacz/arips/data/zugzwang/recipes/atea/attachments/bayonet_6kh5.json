@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "atea:bayonet_6kh5"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

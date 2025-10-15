@@ -1,0 +1,14 @@
+{
+  "slot": "atea:attachment/slot/grip_lb1",
+  "model": "atea:attachment/grip_lb1_geo",
+  "texture": "atea:attachment/uv/grip_lb1",
+  "laser": {
+    "default_color": "0x00ff00",
+    "can_edit": true,
+    "length": 64
+  },
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

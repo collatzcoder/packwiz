@@ -1,0 +1,9 @@
+{
+  "slot": "atea:attachment/slot/buttstock_zhukovs",
+  "model": "atea:attachment/buttstock_zhukovs_geo",
+  "texture": "atea:attachment/uv/buttstock_zhukovs",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

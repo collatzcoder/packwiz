@@ -1,0 +1,7 @@
+{
+  "name": "asos.attachment.sight_eotech_eflx_scorpion.name",
+  "tooltip": "asos.attachment.sight_eotech_eflx_scorpion.desc",
+  "display": "asos:sight_eotech_eflx_scorpion_display",
+  "data": "asos:sight01_fast_data",
+  "type": "scope"
+}

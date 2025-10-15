@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 11
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:sight_coyote"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

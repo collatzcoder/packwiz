@@ -1,0 +1,19 @@
+
+{
+  "slot": "asos:attachment/slot/sight_te_mrpro3x30ir",
+  "model": "asos:attachment/sight_te_mrpro3x30ir_geo",
+  "texture": "asos:attachment/uv/sight_te_mrpro3x30ir",
+  "lod": {
+    "model": "asos:attachment/lod/sight_te_mrpro3x30ir_lod",
+    "texture": "asos:attachment/lod/sight_te_mrpro3x30ir_lod"
+  },
+  "zoom": [
+    3.0
+  ],
+  "scope": true,
+  "fov": 50.0,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atea.attachment.grip_rk5.name",
+  "tooltip": "atea.attachment.grip_rk5.desc",
+  "display": "atea:grip_rk5_display",
+  "data": "atea:grip_rk5_data",
+  "type": "grip"
+}

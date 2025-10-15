@@ -1,0 +1,16 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 13
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "tacz:57x28",
+    "count": 48
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

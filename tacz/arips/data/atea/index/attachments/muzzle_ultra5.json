@@ -1,0 +1,7 @@
+{
+  "name": "atea.attachment.muzzle_ultra5.name",
+  "tooltip": "atea.attachment.muzzle_ultra5.desc",
+  "display": "atea:muzzle_ultra5_display",
+  "data": "atea:muzzle_ultra5_data",
+  "type": "muzzle"
+}

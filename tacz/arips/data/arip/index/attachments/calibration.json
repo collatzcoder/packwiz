@@ -1,0 +1,7 @@
+{
+  "name": "arip.attachment.calibration.name",
+  "tooltip": "arip.attachment.calibration.desc",
+  "display": "arip:calibration_display",
+  "data": "arip:calibration_data",
+  "type": "laser"
+}

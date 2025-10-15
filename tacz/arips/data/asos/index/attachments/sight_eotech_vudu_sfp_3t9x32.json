@@ -1,0 +1,7 @@
+{
+  "name": "asos.attachment.sight_eotech_vudu_sfp_3t9x32.name",
+  "tooltip": "asos.attachment.sight_eotech_vudu_sfp_3t9x32.desc",
+  "display": "asos:sight_eotech_vudu_sfp_3t9x32_display",
+  "data": "asos:sight62_burds_data",
+  "type": "scope"
+}

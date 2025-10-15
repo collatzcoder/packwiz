@@ -1,0 +1,7 @@
+{
+  "name": "atea.attachment.grip_sigurd.name",
+  "tooltip": "atea.attachment.grip_sigurd.desc",
+  "display": "atea:grip_sigurd_display",
+  "data": "atea:grip_sigurd_data",
+  "type": "grip"
+}

@@ -1,0 +1,31 @@
+{
+	"weight": 4,
+	"ads": {
+		"addend": 0.2,
+		"multiplier": 1.1
+	},
+	"inaccuracy": {
+		"multiplier": 0.4
+	},
+	"lie_inaccuracy": {
+		"multiplier": 0.1
+	},
+	"recoil": {
+		"pitch": {
+			"percent": -0.5,
+			"multiplier": 0.5
+		},
+		"yaw": {
+			"percent": -0.5,
+			"multiplier": 0.5
+		}
+	},
+	"gunsmithlib_extension": {
+		"shield": {
+			"block_vanilla_damage_angle": 60,
+			"block_bullet_damage_angle": 120,
+			"condition": "when_aiming",
+			"disable_shield_when_reloading": true
+		}
+	}
+}

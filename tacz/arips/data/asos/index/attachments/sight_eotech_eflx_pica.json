@@ -1,0 +1,7 @@
+{
+  "name": "asos.attachment.sight_eotech_eflx_pica.name",
+  "tooltip": "asos.attachment.sight_eotech_eflx_pica.desc",
+  "display": "asos:sight_eotech_eflx_pica_display",
+  "data": "asos:sight10_minute_data",
+  "type": "scope"
+}

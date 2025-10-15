@@ -1,0 +1,16 @@
+filename = 'Essential_1-3-9_forge_1-20-1.jar'
+name = 'Essential Mod'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '85a4fe95cfd40d0d9a5fdccb4d209afd2a121712924d1d530299969d60e87eb2814124548c6f71098d3a34527aa9023a67f5fc87b8cdb155cadd43dd7c193440'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k2ZPuTBm/versions/XPsaOwwV/Essential_1-3-9_forge_1-20-1.jar'
+
+[update.modrinth]
+mod-id = 'k2ZPuTBm'
+version = 'XPsaOwwV'

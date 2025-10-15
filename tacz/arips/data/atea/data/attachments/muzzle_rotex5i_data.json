@@ -1,0 +1,26 @@
+{
+	"weight": 0.2,
+	"silence": {
+		"distance_addend": -8,
+		"use_silence_sound": true
+	},
+	"ads": {
+		"addend": 0.01
+	},
+	"recoil": {
+		"pitch": {
+			"multiplier": 0.7
+		},
+		"yaw": {
+			"multiplier": 0.7
+		},
+	"melee": {
+		"distance": 1.8,
+		"range_angle": 45,
+		"cooldown": 0,
+		"damage": 4,
+		"knockback": 0.3,
+		"prep": 0.1
+	}
+	}
+}
