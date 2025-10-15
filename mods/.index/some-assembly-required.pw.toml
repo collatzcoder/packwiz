@@ -1,0 +1,16 @@
+filename = 'some-assembly-required-1.20.1-4.2.1.jar'
+name = 'Some Assembly Required'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ea995df0cbf7dcf602ed07a03a551a22d5f9ec072b724750bcfc59f91146eb5b284df98c70c8a93f20df6df2efcd4e3008dfca9862cdd321fa6fb8a399e2a746'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jZi8ogTA/versions/2wWXmKdR/some-assembly-required-1.20.1-4.2.1.jar'
+
+[update.modrinth]
+mod-id = 'jZi8ogTA'
+version = '2wWXmKdR'

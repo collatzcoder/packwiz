@@ -1,0 +1,23 @@
+{
+	"weight": 1,
+	"ads": {
+		"addend": 0.05,
+		"multiplier": 1.1
+	},
+	"inaccuracy": {
+		"multiplier": 0.5
+	},
+	"lie_inaccuracy": {
+		"multiplier": 0.2
+	},
+	"recoil": {
+		"pitch": {
+			"percent": -0.2,
+			"multiplier": 0.8
+		},
+		"yaw": {
+			"percent": -0.2,
+			"multiplier": 0.8
+		}
+	}
+}

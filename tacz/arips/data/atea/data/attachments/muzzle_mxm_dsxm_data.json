@@ -1,0 +1,16 @@
+{
+	"weight": 0.25,
+	"ads": {
+		"addend": 0.02
+	},
+	"silence": {
+		"distance_addend": -24,
+		"use_silence_sound": true
+	},
+	"effective_range": {
+		"multiplier": 1.4
+	},
+	"head_shot":{
+		"multiplier": 1.25
+	}
+}

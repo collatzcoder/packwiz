@@ -1,0 +1,7 @@
+{
+  "name": "arip.attachment.tacit.name",
+  "tooltip": "arip.attachment.tacit.desc",
+  "display": "arip:tacit_display",
+  "data": "arip:tacit_data",
+  "type": "stock"
+}

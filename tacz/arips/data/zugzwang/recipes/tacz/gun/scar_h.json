@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 156
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:scar_h"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

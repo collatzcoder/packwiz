@@ -1,0 +1,14 @@
+{
+  "slot": "asos:attachment/slot/laser_vwt_c5",
+  "model": "asos:attachment/laser_vwt_c5_geo",
+  "texture": "asos:attachment/uv/laser_vwt_c5",
+  "laser": {
+    "default_color": "0x00ff00",
+    "can_edit": true,
+    "length": 64
+  },
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

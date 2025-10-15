@@ -1,0 +1,23 @@
+{
+	"weight": 0.1,
+	"ads": {
+		"addend": -0.1
+	},
+	"inaccuracy": {
+		"multiplier": 0.5
+	},
+	"aim_inaccuracy": {
+		"multiplier": 0.01
+	},
+	"sneak_inaccuracy": {
+		"multiplier": 0.1
+	},
+	"damage": {
+		"percent": 0.1,
+		"multiplier": 1.1
+	},
+	"armor_ignore":{
+		"addend": 0.1,
+		"multiplier": 1.1
+	}
+}

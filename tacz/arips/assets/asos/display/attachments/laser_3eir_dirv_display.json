@@ -1,0 +1,14 @@
+{
+  "slot": "asos:attachment/slot/laser_3eir_dirv",
+  "model": "asos:attachment/laser_3eir_dirv_geo",
+  "texture": "asos:attachment/uv/laser_3eir_dirv",
+  "laser": {
+    "default_color": "0x00ff00",
+    "can_edit": true,
+    "length": 128
+  },
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

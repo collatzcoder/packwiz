@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"result": {
+		"item": "tacz:attachment",
+		"nbt": {
+			"AttachmentId": "asos:laser_eotech_ogl"
+		}
+	},
+	"ingredients": [
+		{
+			"type":"forge:partial_nbt",
+			"item": "tacz:attachment",
+			"nbt": {
+				"AttachmentId": "asos:laser_eotech_ogl_sight"
+			}
+		}
+	]
+}

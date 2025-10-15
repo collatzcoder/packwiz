@@ -1,0 +1,7 @@
+{
+  "name": "asos.attachment.sight_vortex_venom_rd_ambush.name",
+  "tooltip": "asos.attachment.sight_vortex_venom_rd_ambush.desc",
+  "display": "asos:sight_vortex_venom_rd_ambush_display",
+  "data": "asos:sight10_crd_data",
+  "type": "scope"
+}

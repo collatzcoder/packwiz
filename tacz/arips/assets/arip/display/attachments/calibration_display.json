@@ -1,0 +1,15 @@
+{
+  "slot": "arip:attachment/slot/calibration",
+  "model": "arip:attachment/calibration_geo",
+  "texture": "arip:attachment/uv/calibration",
+  "laser": {
+    "default_color": "0x00ffff",
+    "can_edit": true,
+    "length": 128,
+    "width": 0.02
+  },
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

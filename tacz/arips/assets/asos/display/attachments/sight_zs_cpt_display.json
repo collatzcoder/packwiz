@@ -1,0 +1,15 @@
+{
+  "slot": "asos:attachment/slot/sight_zs_cpt",
+  "model": "asos:attachment/sight_zs_cpt_geo",
+  "texture": "asos:attachment/uv/sight_zs_cpt",
+  "zoom": [
+    1.2
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_c",
+    "uninstall": "tacz:attachments/scope_general_c"
+  }
+}

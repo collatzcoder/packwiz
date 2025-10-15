@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 7
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "asos:sight_zs_cpt"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

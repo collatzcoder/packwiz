@@ -1,0 +1,7 @@
+{
+	"weight": 0.4,
+	"ads": {
+		"addend": -0.01,
+		"multiplier": 0.95
+	}
+}

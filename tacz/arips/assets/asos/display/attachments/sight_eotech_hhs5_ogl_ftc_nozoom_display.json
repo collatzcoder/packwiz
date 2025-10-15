@@ -1,0 +1,32 @@
+{
+  "slot": "asos:attachment/slot/sight_eotech_hhs5_ogl_ftc_nozoom",
+  "model": "asos:attachment/sight_eotech_hhs5_ogl_ftc_nozoom_geo",
+  "texture": "asos:attachment/uv/sight_eotech_hhs5_ogl_ftc_nozoom",
+  "lod": {
+    "model": "asos:attachment/lod/sight_eotech_hhs5_ogl_ftc_nozoom_lod",
+    "texture": "asos:attachment/lod/sight_eotech_hhs5_ogl_ftc_lod"
+  },
+  "laser": {
+    "default_color": "0x00ff00",
+    "can_edit": true,
+    "length": 128
+  },
+  "zoom": [
+    1.2,
+    1.2
+  ],
+  "views": [
+    2,
+    1
+  ],
+  "views_fov": [
+    70.0,
+    70.0
+  ],
+  "scope": false,
+  "sight": true,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

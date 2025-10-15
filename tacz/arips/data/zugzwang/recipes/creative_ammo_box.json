@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "tacz:ammo_box",
+    "nbt": {
+      "Creative": true
+    }
+  },
+  "pattern": [
+    "PIP",
+    "PAP",
+    "PPP"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:dragon_egg"
+    },
+    "A": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "P": {
+      "tag": "forge:storage_blocks/netherite"
+    }
+  }
+}

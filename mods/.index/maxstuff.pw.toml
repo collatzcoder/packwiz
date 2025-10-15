@@ -1,0 +1,16 @@
+filename = 'maxstuff-1.8.1.jar'
+name = '[Tacz]Maxstuff'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c6dee3037fd62c679838c35a7e338d1c309de4f2cee77aafa5e38b72547e2a66a7fb5c98432e990cc493b7c5adb6c2826ae902d86a648395feee7744597b831e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zUHF7oUB/versions/Q6HaYTxl/maxstuff-1.8.1.jar'
+
+[update.modrinth]
+mod-id = 'zUHF7oUB'
+version = 'Q6HaYTxl'

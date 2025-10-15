@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 62
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "atea:muzzle_vector16"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

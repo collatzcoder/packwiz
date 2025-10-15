@@ -1,0 +1,8 @@
+{
+  "name": "zugzwang.block.vendor_sculpture_cimasilchin.name",
+  "tooltip": "zugzwang.block.vendor_sculpture_cimasilchin.desc",
+  "display": "zugzwang:vendor_sculpture_cimasilchin_display",
+  "data": "zugzwang:vendor_sculpture_cimasilchin_data",
+  "id": "tacz:workbench_c",
+  "sort": 10
+}

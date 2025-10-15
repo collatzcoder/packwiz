@@ -1,0 +1,7 @@
+{
+  "name": "atea.attachment.muzzle_glock_doublediamond.name",
+  "tooltip": "atea.attachment.muzzle_glock_doublediamond.desc",
+  "display": "atea:muzzle_glock_doublediamond_display",
+  "data": "atea:muzzle_glock_doublediamond_data",
+  "type": "muzzle"
+}

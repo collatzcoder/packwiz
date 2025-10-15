@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 18
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "atea:grip_zolfaqar_gp"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 22
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "atea:buttstock_pt1"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "asos.attachment.sight_hilux_m20vts.name",
+  "tooltip": "asos.attachment.sight_hilux_m20vts.desc",
+  "display": "asos:sight_hilux_m20vts_display",
+  "data": "asos:sight_hilux_m20vts_data",
+  "type": "scope"
+}

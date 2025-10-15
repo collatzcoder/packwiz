@@ -1,0 +1,19 @@
+{
+  "slot": "asos:attachment/slot/sight_vortex_viper_rd",
+  "model": "asos:attachment/sight_vortex_viper_rd_geo",
+  "texture": "asos:attachment/uv/sight_vortex_viper_rd_rex",
+  "lod": {
+    "model": "asos:attachment/lod/sight_vortex_viper_rd_lod",
+    "texture": "asos:attachment/lod/sight_vortex_viper_rd_lod"
+  },
+  "zoom": [
+    1.2
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_e",
+    "uninstall": "tacz:attachments/scope_general_e"
+  }
+}

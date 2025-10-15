@@ -1,0 +1,7 @@
+{
+  "name": "asos.attachment.sight_te_mrpro3x30ir.name",
+  "tooltip": "asos.attachment.sight_te_mrpro3x30ir.desc",
+  "display": "asos:sight_te_mrpro3x30ir_display",
+  "data": "asos:sight40_small_data",
+  "type": "scope"
+}

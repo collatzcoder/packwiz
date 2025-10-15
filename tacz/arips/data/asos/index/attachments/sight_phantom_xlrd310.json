@@ -1,0 +1,7 @@
+{
+  "name": "asos.attachment.sight_phantom_xlrd310.name",
+  "tooltip": "asos.attachment.sight_phantom_xlrd310.desc",
+  "display": "asos:sight_phantom_xlrd310_display",
+  "data": "asos:sight30_tiny_data",
+  "type": "scope"
+}

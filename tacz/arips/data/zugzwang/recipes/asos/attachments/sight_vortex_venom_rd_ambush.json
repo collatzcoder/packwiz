@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 9
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "asos:sight_vortex_venom_rd_ambush"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

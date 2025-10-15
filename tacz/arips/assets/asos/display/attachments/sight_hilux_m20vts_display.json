@@ -1,0 +1,23 @@
+{
+  "slot": "asos:attachment/slot/sight_hilux_m20vts",
+  "model": "asos:attachment/sight_hilux_m20vts_geo",
+  "texture": "asos:attachment/uv/sight_hilux_m20vts",
+  "zoom": [
+    20.0,
+    2.0
+  ],
+  "views": [
+    2,
+    1
+  ],
+  "views_fov": [
+    15.0,
+    25.0
+  ],
+  "scope": true,
+  "sight": true,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_a",
+    "uninstall": "tacz:attachments/scope_general_a"
+  }
+}

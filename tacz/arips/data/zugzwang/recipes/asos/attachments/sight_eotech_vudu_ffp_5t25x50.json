@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 50
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "asos:sight_eotech_vudu_ffp_5t25x50"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

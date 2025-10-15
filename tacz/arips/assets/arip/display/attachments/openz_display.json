@@ -1,0 +1,26 @@
+{
+  "slot": "arip:attachment/slot/openz",
+  "model": "arip:attachment/openz_geo",
+  "texture": "arip:attachment/uv/open",
+  "zoom": [
+    1.2,
+    4.0,
+    10.0
+  ],
+  "views": [
+    1,
+    2,
+    2
+  ],
+  "views_fov": [
+    70.0,
+    70.0,
+    70.0
+  ],
+  "scope": false,
+  "sight": true,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_c",
+    "uninstall": "tacz:attachments/scope_general_c"
+  }
+}

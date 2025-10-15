@@ -1,0 +1,9 @@
+{
+  "slot": "atea:attachment/slot/grip_sigurd",
+  "model": "atea:attachment/grip_sigurd_geo",
+  "texture": "atea:attachment/uv/grip_sigurd",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

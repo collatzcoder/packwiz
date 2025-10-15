@@ -1,0 +1,16 @@
+filename = 'peripheralworks-forge-1.20.1-1.6.0.jar'
+name = 'UnlimitedPeripheralWorks'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '86c4204b5c21a6bfba899a5bf01fe0988938f04321c96663f63b29bbe1aa9828088df8d7af6796e61bf2a4e15d0945c658cda802f461c67228602537e680a931'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Sf7QBsRP/versions/8IKwyEWI/peripheralworks-forge-1.20.1-1.6.0.jar'
+
+[update.modrinth]
+mod-id = 'Sf7QBsRP'
+version = '8IKwyEWI'

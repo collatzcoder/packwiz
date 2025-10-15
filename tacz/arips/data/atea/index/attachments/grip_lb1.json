@@ -1,0 +1,7 @@
+{
+  "name": "atea.attachment.grip_lb1.name",
+  "tooltip": "atea.attachment.grip_lb1.desc",
+  "display": "atea:grip_lb1_display",
+  "data": "atea:grip_lb1_data",
+  "type": "grip"
+}
