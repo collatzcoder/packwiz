@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "56a50156324e275820987c63cd02be935f1a0fe230ee9baee039e6abc920572e"
+
+[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "e6f512892001847d044902a87845611bfd24f716dc5b5f2d737ee93c6bbd7a81"
 
@@ -3489,10 +3493,6 @@ hash = "faeb52fb6860260a6ef82e7771b9f9ab2198bb347ec97d6712308c1da3428f37"
 [[files]]
 file = "mods/zombieawareness-1.20.1-1.13.1.jar"
 hash = "22788126e0a8425340c8033ae5c37414e67ec7d563cc6cb5075ef8a8adb996ad"
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "servers.dat"
