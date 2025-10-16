@@ -2566,11 +2566,6 @@ hash = "065d550a9e253a26e8605ec198708ec40eaa3f13314a6b32aa450f2099b5c8bf"
 metafile = true
 
 [[files]]
-file = "mods/.index/nirvana.pw.toml"
-hash = "9e17495efbb366a387d50d57c97eb76d2c91646dd035c92fdd44960c5c114897"
-metafile = true
-
-[[files]]
 file = "mods/.index/noisium.pw.toml"
 hash = "f9969afa1ffd66c9d6fb59b0241fe3045046412ddaa561cbf24c2b3392db9778"
 metafile = true
