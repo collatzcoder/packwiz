@@ -5,12 +5,6 @@ x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
-[download]
-hash = 'e90bf0cf8833a79d8aa9d6d6375bb6795b7a6ac3'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = 'https://mediafilez.forgecdn.net/files/6852/645/nirvana-forge-1.2.1.jar'
 
-[update.curseforge]
-file-id = 6852645
-project-id = 1278909
+
+url = 'https://edge.forgecdn.net/files/6852/645/nirvana-forge-1.2.1.jar?api-key=267C6CA3'
