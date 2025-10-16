@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "56a50156324e275820987c63cd02be935f1a0fe230ee9baee039e6abc920572e"
-
-[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "e6f512892001847d044902a87845611bfd24f716dc5b5f2d737ee93c6bbd7a81"
 
@@ -3332,10 +3328,6 @@ hash = "5d1c772c2c6c4d7c3f3e2b0cfa3f692dda0d0bbc2c89f894e154946caebb394c"
 [[files]]
 file = "mods/moonlight-1.20-2.16.6-forge.jar"
 hash = "cba1aac25f6ea285c9843505aef48c13e3ec72dd88b533ae16b98ee9b572e04e"
-
-[[files]]
-file = "mods/nirvana-forge-1.2.1.jar"
-hash = "0f51b95b506f9e2b1046bf5c0f1e51df247dadc64857eabd6acf9e367ac3a569"
 
 [[files]]
 file = "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar"
