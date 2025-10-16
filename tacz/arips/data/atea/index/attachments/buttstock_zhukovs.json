@@ -1,7 +1,0 @@
-{
-  "name": "atea.attachment.buttstock_zhukovs.name",
-  "tooltip": "atea.attachment.buttstock_zhukovs.desc",
-  "display": "atea:buttstock_zhukovs_display",
-  "data": "atea:buttstock_zhukovs_data",
-  "type": "stock"
-}

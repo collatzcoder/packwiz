@@ -1,7 +1,0 @@
-{
-  "name": "asos.attachment.sight_okp7.name",
-  "tooltip": "asos.attachment.sight_okp7.desc",
-  "display": "asos:sight_okp7_display",
-  "data": "asos:sight20_micro_data",
-  "type": "scope"
-}

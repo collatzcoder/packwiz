@@ -1,7 +1,0 @@
-{
-  "name": "asos.attachment.sight_si_sidewinder2.name",
-  "tooltip": "asos.attachment.sight_si_sidewinder2.desc",
-  "display": "asos:sight_si_sidewinder2_display",
-  "data": "asos:sight10_minute_data",
-  "type": "scope"
-}

@@ -1,7 +1,0 @@
-{
-  "name": "asos.attachment.sight_eotech_hhs5_ogl_ftc.name",
-  "tooltip": "asos.attachment.sight_eotech_hhs5_ogl_ftc.desc",
-  "display": "asos:sight_eotech_hhs5_ogl_ftc_display",
-  "data": "asos:sight55_wlaser_data",
-  "type": "scope"
-}

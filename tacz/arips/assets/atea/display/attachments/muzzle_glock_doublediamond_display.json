@@ -1,9 +1,0 @@
-{
-  "slot": "atea:attachment/slot/muzzle_glock_doublediamond",
-  "model": "atea:attachment/muzzle_glock_doublediamond_geo",
-  "texture": "atea:attachment/uv/muzzle_glock_doublediamond",
-  "sounds": {
-    "install": "tacz:attachments/muzzle_general",
-    "uninstall": "tacz:attachments/muzzle_general"
-  }
-}

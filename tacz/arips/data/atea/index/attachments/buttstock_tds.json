@@ -1,7 +1,0 @@
-{
-  "name": "atea.attachment.buttstock_tds.name",
-  "tooltip": "atea.attachment.buttstock_tds.desc",
-  "display": "atea:buttstock_tds_display",
-  "data": "atea:buttstock_tds_data",
-  "type": "stock"
-}

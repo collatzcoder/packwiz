@@ -1,7 +1,0 @@
-{
-  "name": "atea.attachment.muzzle_keymount.name",
-  "tooltip": "atea.attachment.muzzle_keymount.desc",
-  "display": "atea:muzzle_keymount_display",
-  "data": "atea:muzzle_keymount_data",
-  "type": "muzzle"
-}
