@@ -1,7 +1,0 @@
-{
-  "name": "atea.attachment.muzzle_osd2.name",
-  "tooltip": "atea.attachment.muzzle_osd2.desc",
-  "display": "atea:muzzle_osd2_display",
-  "data": "atea:muzzle_osd2_data",
-  "type": "muzzle"
-}

@@ -1,7 +1,0 @@
-{
-  "name": "atea.attachment.buttstock_magpul_dtpr.name",
-  "tooltip": "atea.attachment.buttstock_magpul_dtpr.desc",
-  "display": "atea:buttstock_magpul_dtpr_display",
-  "data": "atea:buttstock_magpul_dtpr_data",
-  "type": "stock"
-}

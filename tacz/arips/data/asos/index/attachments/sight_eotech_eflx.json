@@ -1,7 +1,0 @@
-{
-  "name": "asos.attachment.sight_eotech_eflx.name",
-  "tooltip": "asos.attachment.sight_eotech_eflx.desc",
-  "display": "asos:sight_eotech_eflx_display",
-  "data": "asos:sight00_minuscule_data",
-  "type": "scope"
-}

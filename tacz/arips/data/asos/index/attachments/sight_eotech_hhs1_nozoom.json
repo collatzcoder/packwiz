@@ -1,7 +1,0 @@
-{
-  "name": "asos.attachment.sight_eotech_hhs1_nozoom.name",
-  "tooltip": "asos.attachment.sight_eotech_hhs1_nozoom.desc",
-  "display": "asos:sight_eotech_hhs1_nozoom_display",
-  "data": "asos:sight30_tiny_data",
-  "type": "scope"
-}

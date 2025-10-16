@@ -1,8 +1,0 @@
-{
-	"whitelist": [
-		"^zugzwang:.*$"
-	],
-	"blacklist": [
-		"tacz:test"
-	]
-}

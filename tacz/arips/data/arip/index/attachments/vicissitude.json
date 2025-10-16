@@ -1,7 +1,0 @@
-{
-  "name": "arip.attachment.vicissitude.name",
-  "tooltip": "arip.attachment.vicissitude.desc",
-  "display": "arip:vicissitude_display",
-  "data": "arip:vicissitude_data",
-  "type": "muzzle"
-}

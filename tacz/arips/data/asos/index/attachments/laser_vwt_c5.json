@@ -1,7 +1,0 @@
-{
-  "name": "asos.attachment.laser_vwt_c5.name",
-  "tooltip": "asos.attachment.laser_vwt_c5.desc",
-  "display": "asos:laser_vwt_c5_display",
-  "data": "asos:laser_vwt_c5_data",
-  "type": "laser"
-}

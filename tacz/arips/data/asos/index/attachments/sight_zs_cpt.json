@@ -1,7 +1,0 @@
-{
-  "name": "asos.attachment.sight_zs_cpt.name",
-  "tooltip": "asos.attachment.sight_zs_cpt.desc",
-  "display": "asos:sight_zs_cpt_display",
-  "data": "asos:sight10_minute_data",
-  "type": "scope"
-}
