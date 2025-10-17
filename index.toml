@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "servers.dat"
+hash = "1926425ec73efc3cbe19c935d76249b04c5c1202a008d1548b3d668afb64b6b0"
