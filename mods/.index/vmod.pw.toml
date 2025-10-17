@@ -1,0 +1,16 @@
+filename = 'VMod-Forge-1.20.1-1.7.1.jar'
+name = 'VMod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '950802e35baa866a1e08a07db440a2cbc0feb14654406d4504786036627979b4c938205ab261c5bb1b9c683bda436cb8b2f2781b9947ac2dd15ad9a8d2aab73d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qS1ot7R2/versions/bng5THLF/VMod-Forge-1.20.1-1.7.1.jar'
+
+[update.modrinth]
+mod-id = 'qS1ot7R2'
+version = 'bng5THLF'

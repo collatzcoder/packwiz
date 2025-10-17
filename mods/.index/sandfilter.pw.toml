@@ -1,0 +1,16 @@
+filename = 'sandfilter-1.0.2.jar'
+name = 'Sand Filter'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4dde9bd6d9a3f698fc805cd04d0b227b4608a4f8037ed228a2093d99ff1724783dcda165bab5e013333eb2de0ebfa34c78764a13dc32213b399806f82d407cd4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/U3MklQmS/versions/Pga0oyce/sandfilter-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'U3MklQmS'
+version = 'Pga0oyce'
