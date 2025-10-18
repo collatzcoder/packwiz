@@ -2129,6 +2129,10 @@ file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
 hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
 
 [[files]]
+file = "mods/Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar"
+hash = "c2e52676be3b3d1c04bb96cc0e6b966fb48342216fcd3658c79c43ae5537933d"
+
+[[files]]
 file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
 hash = "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f"
 
@@ -2385,6 +2389,10 @@ file = "mods/create_connected-0.9.4-mc1.20.1-all.jar"
 hash = "74550c7f35c87c064ad0d94dced6b22e18d23ae15b8d3c8eb5afe4d4023e4114"
 
 [[files]]
+file = "mods/create_eureka-1.1.0.r-forge-1.20.1.jar"
+hash = "14f351b474b1df8fb51c5eb46a5abcfd2699b6ea0e6af0d5932d809c2b1c7a38"
+
+[[files]]
 file = "mods/create_radar-0.2.136+mc1.20.1-all.jar"
 hash = "ec6791d3770a30a13a4eea7685839db9cc6e771a8a111a2405588c388c07c658"
 
@@ -2456,6 +2464,10 @@ metafile = true
 file = "mods/enhanced-ai.pw.toml"
 hash = "92f88e7b9d8a0a9a396568655620ea25d9ec1eca8afd4124a73a509276a8b4a6"
 metafile = true
+
+[[files]]
+file = "mods/entityculling-forge-1.8.2-mc1.20.1.jar"
+hash = "b8eb1a4fe48779bdaefcda64468471da148d0eacf93570d55373d05418b2deca"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -2531,6 +2543,10 @@ metafile = true
 file = "mods/guideme.pw.toml"
 hash = "de1074bb6f0f63ce7580daab559efdea6e5b1238deb20074e0a87179b3c4dbd4"
 metafile = true
+
+[[files]]
+file = "mods/gundurability-1.8.2-all.jar"
+hash = "b0210adabcd43f7288f4d9d72fb88ec6880e858b80147a3464d37980de72c0d4"
 
 [[files]]
 file = "mods/hypertubes.pw.toml"
@@ -2720,6 +2736,10 @@ hash = "43c6d7667d61b4df81bff2358e967717faaac2ba73cab4c30690f0015a1fb8ce"
 metafile = true
 
 [[files]]
+file = "mods/notenoughanimations-forge-1.10.2-mc1.20.1.jar"
+hash = "29d7567b92d8cf5f9ca06e3a901fb149318d0fca82097e5f0f5e568df9a2c120"
+
+[[files]]
 file = "mods/oc2r.pw.toml"
 hash = "23821b844f5ba95ff8c64f5b4ef26cfa5dec5542bd01c30cfeeff56e2d4d880e"
 metafile = true
@@ -2744,6 +2764,10 @@ file = "mods/peripheralworks-forge-1.20.1-1.6.0.jar"
 hash = "74b7ad8e2c49262bdf5e56724e8fa90e59561298b12b188c5c5dd1bbb7dfa0ec"
 
 [[files]]
+file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
+hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
+
+[[files]]
 file = "mods/petrolpark-library.pw.toml"
 hash = "b99e9eaa47d01c04aab00731d22572e30e19a37267b90cb03349c10fa9970b03"
 metafile = true
@@ -2752,6 +2776,10 @@ metafile = true
 file = "mods/petrols-parts.pw.toml"
 hash = "011b50dc8a193c1452ecb520bd19ebfc7145051e8d12edd22c7518c2dedce834"
 metafile = true
+
+[[files]]
+file = "mods/petrolsparts-1.20.1-1.1.5.jar"
+hash = "733399e6f17f0935f2cd5b1f05eae52821ee7083bc19a6a965ce4b648c4a2a8c"
 
 [[files]]
 file = "mods/playerrevive.pw.toml"
@@ -2803,6 +2831,10 @@ hash = "8206df6c97f3b0696ca143240084eea614dc1f404ab917dde9c5f156cebafa02"
 metafile = true
 
 [[files]]
+file = "mods/sandfilter-1.0.2.jar"
+hash = "0b3d0b48aafa54aa17c747bb2db546551e647b96325feeb1a6a5e286bb9f37ba"
+
+[[files]]
 file = "mods/sandfilter.pw.toml"
 hash = "c77f709f4cf88bcaada0369e9d2a033dde9e7a04a4741bf9d8c53cecf18b0fe1"
 metafile = true
@@ -2816,6 +2848,10 @@ metafile = true
 file = "mods/skin-layers-3d.pw.toml"
 hash = "f254b23c519066ccb5dfcb7a71987074551b368d4b9f74a28b58f6709b232480"
 metafile = true
+
+[[files]]
+file = "mods/skinlayers3d-forge-1.9.0-mc1.20.1.jar"
+hash = "f7c04c9e9a3d9f0f9ab99d7277fb778900302f1eef4922cc687dab2d05577310"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
