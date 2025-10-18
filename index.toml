@@ -2315,11 +2315,6 @@ hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "aa383802afb154b1cf46efff75fc581f73a81f45db28592f264a95c4fd6400a7"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "de9a6d80b48e8d99fb561a94a0d28941327c91620a6c1f76af29af370df0925a"
 metafile = true
@@ -2327,11 +2322,6 @@ metafile = true
 [[files]]
 file = "mods/create-ender-transmission.pw.toml"
 hash = "2de0e1e9055f819852ff113a050cd233761b5c67f7b3b98f2ca0b2b9bc8a6593"
-metafile = true
-
-[[files]]
-file = "mods/create-eureka.pw.toml"
-hash = "5c5bb7d980d949c7645b9fdcd6e06d9635cfead63041a7c5d781206cdf41770e"
 metafile = true
 
 [[files]]
@@ -2468,11 +2458,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling-forge-1.8.2-mc1.20.1.jar"
 hash = "b8eb1a4fe48779bdaefcda64468471da148d0eacf93570d55373d05418b2deca"
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "e5650ca09fdb53d1c197b4b7d000c432a566c559381106edeee0e2abc2ce1cd0"
-metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
@@ -2731,11 +2716,6 @@ hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "43c6d7667d61b4df81bff2358e967717faaac2ba73cab4c30690f0015a1fb8ce"
-metafile = true
-
-[[files]]
 file = "mods/notenoughanimations-forge-1.10.2-mc1.20.1.jar"
 hash = "29d7567b92d8cf5f9ca06e3a901fb149318d0fca82097e5f0f5e568df9a2c120"
 
@@ -2766,16 +2746,6 @@ hash = "74b7ad8e2c49262bdf5e56724e8fa90e59561298b12b188c5c5dd1bbb7dfa0ec"
 [[files]]
 file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
 hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
-
-[[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "b99e9eaa47d01c04aab00731d22572e30e19a37267b90cb03349c10fa9970b03"
-metafile = true
-
-[[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "011b50dc8a193c1452ecb520bd19ebfc7145051e8d12edd22c7518c2dedce834"
-metafile = true
 
 [[files]]
 file = "mods/petrolsparts-1.20.1-1.1.5.jar"
@@ -2835,18 +2805,8 @@ file = "mods/sandfilter-1.0.2.jar"
 hash = "0b3d0b48aafa54aa17c747bb2db546551e647b96325feeb1a6a5e286bb9f37ba"
 
 [[files]]
-file = "mods/sandfilter.pw.toml"
-hash = "c77f709f4cf88bcaada0369e9d2a033dde9e7a04a4741bf9d8c53cecf18b0fe1"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "edacf27ee09dd5ca71d2d7b46104b0a9fdbbb8b507ac239db51d47a3b6f53c64"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "f254b23c519066ccb5dfcb7a71987074551b368d4b9f74a28b58f6709b232480"
 metafile = true
 
 [[files]]
@@ -2890,11 +2850,6 @@ metafile = true
 [[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "9a7fd0f91268419d3507dbe2603fdc4c9afe6560b837465bbb721245afabd920"
-metafile = true
-
-[[files]]
-file = "mods/tacz-durability.pw.toml"
-hash = "6632c53a6ac7c2cc14f50c62cbee90d4f58b121c99c142e5cad04488eafd35c5"
 metafile = true
 
 [[files]]
