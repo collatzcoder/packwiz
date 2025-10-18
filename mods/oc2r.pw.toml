@@ -1,0 +1,13 @@
+name = "OpenComputers II: Reimagined"
+filename = "oc2r-1.20.1-forge-2.2.6-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ace2660f5ffc944bf6b8bc9c104198e2f9bbb72f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7006439
+project-id = 1037738

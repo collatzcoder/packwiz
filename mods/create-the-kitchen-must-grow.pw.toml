@@ -1,0 +1,13 @@
+name = "Create: The Kitchen Must Grow"
+filename = "kitchen_grow-0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cc2e1b9c9621d51f42392196641ceaba8c3bfd1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5923634
+project-id = 952062

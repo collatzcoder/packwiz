@@ -1,0 +1,13 @@
+name = "Sand Filter"
+filename = "sandfilter-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac5d4ea3e65a68988103ce6f311f0e0f56ff5f71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5595333
+project-id = 1071388

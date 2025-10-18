@@ -1,0 +1,13 @@
+name = "[Tacz]Maxstuff"
+filename = "maxstuff-1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4067bebc0a1cb96113ea2a142e0aab145e60cebf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6624536
+project-id = 1199923
