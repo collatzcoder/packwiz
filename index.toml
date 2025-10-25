@@ -2233,10 +2233,6 @@ file = "mods/cc-tweaked-1.20.1-forge-1.115.0.jar"
 hash = "4eca7e3bb611c8c8cc47b0e47ff50c84f0f7199ebdf4a8be4dd421c77df3ed77"
 
 [[files]]
-file = "mods/cclink-6.0.2-beta1-1.20.1.jar"
-hash = "aec3b36145a46bac7013ea39f4cd76c8187e82ccfc3a7e6671b845c4181795f4"
-
-[[files]]
 file = "mods/ccshenanigans-1.0.jar"
 hash = "49116a0fe294a4939a9f00b0c16c247110d1db2130b4f1281a5e3b5f4c898917"
 
@@ -2720,11 +2716,6 @@ file = "mods/notenoughanimations-forge-1.10.2-mc1.20.1.jar"
 hash = "29d7567b92d8cf5f9ca06e3a901fb149318d0fca82097e5f0f5e568df9a2c120"
 
 [[files]]
-file = "mods/oc2r.pw.toml"
-hash = "23821b844f5ba95ff8c64f5b4ef26cfa5dec5542bd01c30cfeeff56e2d4d880e"
-metafile = true
-
-[[files]]
 file = "mods/oculus.pw.toml"
 hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
@@ -2738,10 +2729,6 @@ metafile = true
 file = "mods/packet-fixer.pw.toml"
 hash = "6fab924e164f085a461460ad65dc048b528693137ddbc8e3b66667b68305cf54"
 metafile = true
-
-[[files]]
-file = "mods/peripheralworks-forge-1.20.1-1.6.0.jar"
-hash = "74b7ad8e2c49262bdf5e56724e8fa90e59561298b12b188c5c5dd1bbb7dfa0ec"
 
 [[files]]
 file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
@@ -2765,10 +2752,6 @@ metafile = true
 file = "mods/polymorph.pw.toml"
 hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
 metafile = true
-
-[[files]]
-file = "mods/postproduction_backported-1.0.8.jar"
-hash = "fb3d7bdb33bc379ba1b4700832ce28fe9d57498f0ce8aad7b3560fb132029503"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
