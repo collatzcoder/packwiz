@@ -2692,11 +2692,6 @@ hash = "7172839c89fed8a57db7ea0fca1bf4305e2c76e15f2277a9e66e6c9aaace4374"
 metafile = true
 
 [[files]]
-file = "mods/more-peripherals.pw.toml"
-hash = "c6835bdf7e9ada3bfff472e70d8c22d03af0e2a6e0bc5b79745d5c2fb3ff292c"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -2791,10 +2786,6 @@ hash = "0b3d0b48aafa54aa17c747bb2db546551e647b96325feeb1a6a5e286bb9f37ba"
 file = "mods/selene.pw.toml"
 hash = "edacf27ee09dd5ca71d2d7b46104b0a9fdbbb8b507ac239db51d47a3b6f53c64"
 metafile = true
-
-[[files]]
-file = "mods/skinlayers3d-forge-1.9.0-mc1.20.1.jar"
-hash = "f7c04c9e9a3d9f0f9ab99d7277fb778900302f1eef4922cc687dab2d05577310"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
@@ -2939,7 +2930,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "1926425ec73efc3cbe19c935d76249b04c5c1202a008d1548b3d668afb64b6b0"
+hash = "f600f4aa187525ca916124270c6c20df1ea622b7638ee4ed328e211e4a8c63ec"
 
 [[files]]
 file = "tacz/ARIPS_ver.1.3.0.zip"
