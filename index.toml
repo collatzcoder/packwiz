@@ -2247,11 +2247,6 @@ hash = "88f1a8e36982b0f9aa7f27bb51a244f523cbd8f67c5eeff1293b66262c53ed2b"
 metafile = true
 
 [[files]]
-file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "62aedc7c0677673714c17778f47a9a47a031ecad3a9f4f608db7bf93ca369a97"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "d923dcf0425babe1b516bf9f0751d4be691cfff70bd311d51d069142cd824eaf"
 metafile = true
@@ -2570,11 +2565,6 @@ hash = "d2ea4c30ad1e8be5a30da37ecc518e0f832074862797586ec7361b8a59400229"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "e3c48fd4b82fe25ec174f2fd0f2ca0eb887b0320f99d24aa1996109e167e0c55"
-metafile = true
-
-[[files]]
 file = "mods/jade-vs.pw.toml"
 hash = "0c95cfeb482876a7e171f24956e6e09e70596ca3b12bd0cd0b8f10ee7d6126d7"
 metafile = true
@@ -2697,11 +2687,6 @@ hash = "a9b313e2144b4b437d05e94ac6c7c583d8c6f0585efb1cd7c40d02540af045c5"
 metafile = true
 
 [[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "d17e6cdfdc89ce8a6ea9fc794ec9382faa17476d1a98b799abb3a83acfdb64b5"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "cc7809fbee411f2d388c97610380eaaabb36337cf4f4f4d584b30f08761fe0e7"
 metafile = true
@@ -2810,11 +2795,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
 hash = "1d7a0d4cdbdee61532dd23ddbc2833292e945d8ec2d20f3271af86b02b0fc108"
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "5d8b9ff36213e2dc0b0b4c9a6deeee9d11305e90d604d4af128989580f3e84ca"
-metafile = true
 
 [[files]]
 file = "mods/steel-armor-blocks.pw.toml"
