@@ -3,8 +3,8 @@ filename = "modelfix-1.15.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "35f27982242a3ea58c526204a28704ddf355d19bb2e9b0ff10f9585c255a4f16"
+hash-format = "sha1"
+hash = "5bdda0781bf9dfb5f992a7aa2bee64d5d3fe0b84"
 mode = "metadata:curseforge"
 
 [update]

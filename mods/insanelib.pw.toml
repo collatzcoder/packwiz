@@ -3,8 +3,8 @@ filename = "insanelib-1.21.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "d7ea8d4bb5b7e178333f2c229d0a38f94e15f3ae2823b4192b487992ca08da4b"
+hash-format = "sha1"
+hash = "f7a44458feea68829a934f09c1628a1b96665ec6"
 mode = "metadata:curseforge"
 
 [update]

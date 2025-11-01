@@ -3,8 +3,8 @@ filename = "fast-ip-ping-v1.0.7-mc1.20.4-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "109d9d133ab51b1fd70b2530f0b3754f82bb6442e7e2c408e65e8967f50782fe"
+hash-format = "sha1"
+hash = "253d21fd87657e6dc1e451c9758f5daaa71b86c8"
 mode = "metadata:curseforge"
 
 [update]
