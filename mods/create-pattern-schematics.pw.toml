@@ -3,8 +3,8 @@ filename = "pattern_schematics-1.1.19+forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "157b76550676ca459d34efe9ffb073afca871393"
+hash-format = "sha256"
+hash = "210e39d98104895a75253305457a9d461a8ff83d5db2fa7ddb8ab06011556f13"
 mode = "metadata:curseforge"
 
 [update]

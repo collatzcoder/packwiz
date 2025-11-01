@@ -3,8 +3,8 @@ filename = "diet-forge-2.1.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c5f5d5980803259931dfa62236e888fb08ecf70a"
+hash-format = "sha256"
+hash = "2e3b631cd9773996c7eaefe3c1cd086045b9b9a193a8e4ab29cc8e64d937e5bd"
 mode = "metadata:curseforge"
 
 [update]
