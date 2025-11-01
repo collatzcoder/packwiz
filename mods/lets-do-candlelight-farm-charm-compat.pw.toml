@@ -3,8 +3,8 @@ filename = "letsdo-candlelight-forge-2.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "67b5560125db588cb1d87c042cc9dce9833861d7"
+hash-format = "sha256"
+hash = "6c384737ebc26a0efb50a0688e4ff38f59bce9db30c4b61dcbb1118095b34688"
 mode = "metadata:curseforge"
 
 [update]

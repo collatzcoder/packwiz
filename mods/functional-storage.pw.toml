@@ -3,8 +3,8 @@ filename = "functionalstorage-1.20.1-1.2.13.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "052a7a94e46dbad7955a316f496a187764ae46f0"
+hash-format = "sha256"
+hash = "0d458bcd5c23e53b5479acdb2e9ac2f762f2a1f3b14951bf3cc4cafeabefb687"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "tournament-1.20.1-forge-1.1.0_beta-5.3+af35b3821f.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "29e7518684c1ef7c2a573a0c57a5e942c6e2c725"
+hash-format = "sha256"
+hash = "d2bb51322abed1a97262cf639edd831e524b50b2089d1805f80307cfa113d413"
 mode = "metadata:curseforge"
 
 [update]
