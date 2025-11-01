@@ -3,8 +3,8 @@ filename = "lightmanscurrency-1.20.1-2.2.6.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5c8ac0f5a12d650ebac55a5aa14bd883ea6c64a8"
+hash-format = "sha256"
+hash = "e0851ec1214aae3f781cac3f42ec37fb30061b668bd97f9dae465eb2a578c161"
 mode = "metadata:curseforge"
 
 [update]
