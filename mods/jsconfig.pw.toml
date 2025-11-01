@@ -3,8 +3,8 @@ filename = "jsconf-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "0719430e0404f55c8bebc2dff7a82416d8081eb9dc2944fda9575e71513144bd"
+hash-format = "sha1"
+hash = "ebe5e511a5d319c1b4733a9d87f22258584f2c0e"
 mode = "metadata:curseforge"
 
 [update]

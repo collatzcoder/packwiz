@@ -3,8 +3,8 @@ filename = "Explosion-Overhaul-0.1.7.7-a Forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "83d693a75fda959fe79400676402d4a6dff0951454748f16e386530464c60cff"
+hash-format = "sha1"
+hash = "4616cc2be6e35b4f48289022e140a5097d02d2fa"
 mode = "metadata:curseforge"
 
 [update]
