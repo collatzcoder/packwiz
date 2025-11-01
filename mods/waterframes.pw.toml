@@ -3,8 +3,8 @@ filename = "waterframes-FORGE-mc1.20.1-v2.1.15.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d6d3ef3b04c4d1135d9eac9e507bbabdcf70d1c0"
+hash-format = "sha256"
+hash = "f30508891689161391b4097fa652dee54ee2513db64e8f6510ba4e32d92234f1"
 mode = "metadata:curseforge"
 
 [update]
