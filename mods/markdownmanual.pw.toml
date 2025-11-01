@@ -3,8 +3,8 @@ filename = "markdown_manual-MC1.20.1-forge-1.2.5+c3f0b88.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "13711f030faa4a6951623c5dc487720cae6b0ed3f28653fe7c704c274d56af1b"
+hash-format = "sha1"
+hash = "9e2dec58cb2d827e42dc8453214d815a7b63ce82"
 mode = "metadata:curseforge"
 
 [update]

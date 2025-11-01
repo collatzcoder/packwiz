@@ -3,8 +3,8 @@ filename = "ironchest-1.20.1-14.4.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
+hash-format = "sha1"
+hash = "4b2dd0f581e40f8bd6f6e63b2d84c06dfde2c4eb"
 mode = "metadata:curseforge"
 
 [update]

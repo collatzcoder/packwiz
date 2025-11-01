@@ -3,8 +3,8 @@ filename = "alexsmobs-1.22.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c"
+hash-format = "sha1"
+hash = "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f"
 mode = "metadata:curseforge"
 
 [update]

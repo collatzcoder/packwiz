@@ -3,8 +3,8 @@ filename = "CobbleForDays-1.8.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "9e7244ff134b8059fb481280505ba9d200c6d1b6e21984a3963e5dfc5794ee00"
+hash-format = "sha1"
+hash = "8c683b5a8205544af762ed0c74371e1b76367341"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "create_interactive-1.1.1-beta.4_1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "6b75a6f535ade0290254d4767944d96b3b8b31891cc5d90c42131f951e2b0978"
+hash-format = "sha1"
+hash = "2ca430a4cfaabb1862db6f1c192eb7b31f10c25d"
 mode = "metadata:curseforge"
 
 [update]

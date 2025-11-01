@@ -3,8 +3,8 @@ filename = "watermedia-2.1.30.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "4f5c80cc0f6d09e165d57d0b387a316b318dfdc84e2fd1b8d65ec6e6dd719e90"
+hash-format = "sha1"
+hash = "d2ac566dc3416101c94b807dcade279c32d4d601"
 mode = "metadata:curseforge"
 
 [update]
