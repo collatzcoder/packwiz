@@ -1,0 +1,13 @@
+name = "Perseus:New Frontiers"
+author = "SDT"
+version = "0.6.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "06731b75b0eae551b96c6e5ea263bf07e14f0f217ae102638b74aeb7763bb153"
+
+[versions]
+forge = "47.4.13"
+minecraft = "1.20.1"
