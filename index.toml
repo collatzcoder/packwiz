@@ -125,6 +125,10 @@ hash = "17774dd620fab47c3d33ef6f751d9d3d10a6aa69d17d4ae0d84832930c7ec12a"
 metafile = true
 
 [[files]]
+file = "mods/beyond_oxygen-0.12.6.jar"
+hash = "8684aa94bc9096789c5b9438aeabb56d7c752dd9ee7441f4e2e383e708991fa2"
+
+[[files]]
 file = "mods/cc-vs.pw.toml"
 hash = "e17fd2b3a6643d47fb22647f0d6cb138f59c40af5bacda77ddc1f45d7d63d3a1"
 metafile = true
@@ -137,6 +141,10 @@ hash = "1fdc672a6bce6cdc8052fa80ed4081983afc2ab8ffaae908fe6c5a207c82da17"
 file = "mods/chamber-clarity-tac-z.pw.toml"
 hash = "5862d83d768e86553efdbb32b1ec7442845dbae7888944cfff95498148c8ec4d"
 metafile = true
+
+[[files]]
+file = "mods/chamber_clarity-3.0.0-1.20.1.jar"
+hash = "f68e78488f3731d27451ecd23d9d756d1777607b2f29dd835932f5842ce042c6"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
@@ -309,6 +317,10 @@ metafile = true
 file = "mods/embeddium.pw.toml"
 hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
+
+[[files]]
+file = "mods/entityculling-forge-1.9.4-mc1.20.1.jar"
+hash = "0a95e730ccc81ba60e65af6b76dacf96f9e00fd391c50e9695d5fd5ace275ab7"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -500,6 +512,10 @@ hash = "2748f5043b9b2068ffb8cc41cb22d1483a7c41d973bca545422e78e862e5cdf3"
 metafile = true
 
 [[files]]
+file = "mods/petrolpark-1.20.1-1.4.23-all.jar"
+hash = "6ea10b19d6f9a8217d9f03eabc7d14bc27f159b2ddd6f26a78fa995cec5120ce"
+
+[[files]]
 file = "mods/petrolpark-library.pw.toml"
 hash = "cb460a3843c794a051649d2fa90c024623a2ea3c2faa31dcde0536694f6fcce9"
 metafile = true
@@ -571,6 +587,10 @@ metafile = true
 file = "mods/shots-fired.pw.toml"
 hash = "d406aa64491151b01c883a1ece58c3ebd9a72236a39fac347b41bf8e25ef5a70"
 metafile = true
+
+[[files]]
+file = "mods/shotsfired-1.20.1-0.2.2.jar"
+hash = "494bf2769ad88aa053d2e8a6d9fc3f079b6a22d9fef43166d5ea77330a6b1f77"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
