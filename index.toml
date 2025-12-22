@@ -501,6 +501,11 @@ file = "mods/petrolpark-1.20.1-1.4.23-all.jar"
 hash = "6ea10b19d6f9a8217d9f03eabc7d14bc27f159b2ddd6f26a78fa995cec5120ce"
 
 [[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "08db67f5571e690b026c38becb5c5273fc95b8519124cd046112529104605784"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
 metafile = true
@@ -590,6 +595,11 @@ metafile = true
 [[files]]
 file = "mods/surveyor-map-framework.pw.toml"
 hash = "589b11054f06a5917945ee33f0b5f0cb545e353e16e92a179cfae2920afdc1f4"
+metafile = true
+
+[[files]]
+file = "mods/tacz-chamber-clarity.pw.toml"
+hash = "3ed91844d0a79987b748dbe5e14c9e008adce92e6836e07b1c90ee243ac870d2"
 metafile = true
 
 [[files]]
