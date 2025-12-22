@@ -120,11 +120,6 @@ hash = "585a3071c68587c3c041832210a58e74e7701162dbc360d47956655ca1a6438e"
 metafile = true
 
 [[files]]
-file = "mods/beyond-oxygen.pw.toml"
-hash = "17774dd620fab47c3d33ef6f751d9d3d10a6aa69d17d4ae0d84832930c7ec12a"
-metafile = true
-
-[[files]]
 file = "mods/beyond_oxygen-0.12.6.jar"
 hash = "8684aa94bc9096789c5b9438aeabb56d7c752dd9ee7441f4e2e383e708991fa2"
 
@@ -323,11 +318,6 @@ file = "mods/entityculling-forge-1.9.4-mc1.20.1.jar"
 hash = "0a95e730ccc81ba60e65af6b76dacf96f9e00fd391c50e9695d5fd5ace275ab7"
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "628d5006156ef76351266ad03267b573b9b9f3777b105caee67ce18bbc410146"
-metafile = true
-
-[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "80ea95568836a40a19316f8cbbcca1615d7a1eafb197bfd694537a865fc6e848"
 metafile = true
@@ -516,11 +506,6 @@ file = "mods/petrolpark-1.20.1-1.4.23-all.jar"
 hash = "6ea10b19d6f9a8217d9f03eabc7d14bc27f159b2ddd6f26a78fa995cec5120ce"
 
 [[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "cb460a3843c794a051649d2fa90c024623a2ea3c2faa31dcde0536694f6fcce9"
-metafile = true
-
-[[files]]
 file = "mods/petrolpark.pw.toml"
 hash = "08db67f5571e690b026c38becb5c5273fc95b8519124cd046112529104605784"
 metafile = true
@@ -584,11 +569,6 @@ hash = "086ae6b5cfa8a07be194343117c92c8139275a8dac28d4c3476081a0eb1d3386"
 metafile = true
 
 [[files]]
-file = "mods/shots-fired.pw.toml"
-hash = "d406aa64491151b01c883a1ece58c3ebd9a72236a39fac347b41bf8e25ef5a70"
-metafile = true
-
-[[files]]
 file = "mods/shotsfired-1.20.1-0.2.2.jar"
 hash = "494bf2769ad88aa053d2e8a6d9fc3f079b6a22d9fef43166d5ea77330a6b1f77"
 
@@ -620,11 +600,6 @@ metafile = true
 [[files]]
 file = "mods/surveyor-map-framework.pw.toml"
 hash = "589b11054f06a5917945ee33f0b5f0cb545e353e16e92a179cfae2920afdc1f4"
-metafile = true
-
-[[files]]
-file = "mods/tacz-chamber-clarity.pw.toml"
-hash = "3ed91844d0a79987b748dbe5e14c9e008adce92e6836e07b1c90ee243ac870d2"
 metafile = true
 
 [[files]]
