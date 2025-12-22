@@ -3,11 +3,11 @@ filename = "beyond_oxygen-0.12.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1941853b1b66c3858ab666037be553caa3d2ca92"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/2T6G6FBO/versions/jGmTyUiT/beyond_oxygen-0.12.6.jar"
+hash-format = "sha512"
+hash = "83e355ad8b9bb2f0b2e773dd30701ad20ef48c6a0d051ae889f60942af72636e866930f5f2ef5256d127fdadb03c2641f28c1f04c7fd1b8a999711c7f8a43cee"
 
 [update]
-[update.curseforge]
-file-id = 7234012
-project-id = 1270752
+[update.modrinth]
+mod-id = "2T6G6FBO"
+version = "jGmTyUiT"

@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/beyond-oxygen.pw.toml"
-hash = "6bd00d8f4384a5dc25ccb2cddd13bb137663866d9dd4868dc7ea43f29ae52039"
+hash = "17774dd620fab47c3d33ef6f751d9d3d10a6aa69d17d4ae0d84832930c7ec12a"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "405c6f9447f29e70146c7c75bd968c91091afb692513473b7454aedaeea12f20"
+hash = "628d5006156ef76351266ad03267b573b9b9f3777b105caee67ce18bbc410146"
 metafile = true
 
 [[files]]
@@ -388,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "94a0ed0630ad6e53af1e317e86a195672f4627552fde677396ac94eefce6ffc6"
+metafile = true
+
+[[files]]
+file = "mods/jsconf.pw.toml"
+hash = "758b409895df7dd3aff6a0e586bfbef7b1fdf7af21076c5304f9f8869f9e2bfa"
 metafile = true
 
 [[files]]
@@ -500,6 +505,11 @@ hash = "cb460a3843c794a051649d2fa90c024623a2ea3c2faa31dcde0536694f6fcce9"
 metafile = true
 
 [[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "08db67f5571e690b026c38becb5c5273fc95b8519124cd046112529104605784"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
 metafile = true
@@ -559,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/shots-fired.pw.toml"
-hash = "e6cd019d75380e6137a3d6eafe9d4276ac2004de15cef6bbdba71fb2e40f3d2c"
+hash = "d406aa64491151b01c883a1ece58c3ebd9a72236a39fac347b41bf8e25ef5a70"
 metafile = true
 
 [[files]]
@@ -590,6 +600,11 @@ metafile = true
 [[files]]
 file = "mods/surveyor-map-framework.pw.toml"
 hash = "589b11054f06a5917945ee33f0b5f0cb545e353e16e92a179cfae2920afdc1f4"
+metafile = true
+
+[[files]]
+file = "mods/tacz-chamber-clarity.pw.toml"
+hash = "3ed91844d0a79987b748dbe5e14c9e008adce92e6836e07b1c90ee243ac870d2"
 metafile = true
 
 [[files]]
@@ -633,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "31b3ec584b0adb3d6c3d9bcbbce1a310b442817672886f5ac2fd80e341a4bc79"
+hash = "c707a4dfd080ecb5a7ff06a62973eef0711cbee6b70eda0d1dec2bc459e12309"
 metafile = true
 
 [[files]]
