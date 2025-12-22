@@ -457,20 +457,12 @@ file = "config/badoptimizations.txt"
 hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
 
 [[files]]
-file = "config/beyond_oxygen-common.toml"
-hash = "df0ce2970b2da4940c71727110cf9db4894db368eebff7a6efc8a6c81d5e646f"
-
-[[files]]
 file = "config/c2me.toml"
 hash = "d2c1728a2f2bd38bac69252966877595cbc947085e65900a8224d66380b5ec3a"
 
 [[files]]
 file = "config/cc_vs-config.toml"
 hash = "b90225e762beb14153aa90839571e35e036ff79914129f086b48c5f4ccc0a54d"
-
-[[files]]
-file = "config/chamber_clarity-client.toml"
-hash = "d1b8af8c37e6f82670fc56b6506ce644914578e72d10a19767507850fbde1d3f"
 
 [[files]]
 file = "config/chat_heads.json5"
@@ -595,10 +587,6 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 [[files]]
 file = "config/embeddium-options.json"
 hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "5110d83fa12df053d48eb3bcfded9d174e617910ce3e6c72f01dfc248c4e6abb"
 
 [[files]]
 file = "config/explosionoverhaul-client.toml"
@@ -963,14 +951,6 @@ hash = "959e702a4693a762e6fd93ff60ef819ea94802806e3958b08fabe01f52b29e08"
 [[files]]
 file = "config/saturn-optimizations.toml"
 hash = "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3"
-
-[[files]]
-file = "config/shotsfired-tacz-ejection-config.json"
-hash = "f11612fcffad4f14512cd2a841531c53561f844f976038ef7a0b7a22f535962e"
-
-[[files]]
-file = "config/shotsfired-tacz.json"
-hash = "9c498ca3e6d648fd787283ca7bdd1cf1a872d5512b9a0866622c9d4f7beda559"
 
 [[files]]
 file = "config/sliceanddice-client.toml"
