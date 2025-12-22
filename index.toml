@@ -1448,6 +1448,11 @@ hash = "e28e97f1f73f9a9f4552ac9014f23913a0d4f9b1f3be554b60ccac046408b5b0"
 metafile = true
 
 [[files]]
+file = "mods/create-radars.pw.toml"
+hash = "123f39fa64cda16f36cb6da7b547e49c482baf6a79f7b7f87b4004d21dd059b5"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "0971029a9e6cbc93c8fd694f97942c566979973f3d98023b730b1d436f617220"
 metafile = true
@@ -1465,10 +1470,6 @@ metafile = true
 [[files]]
 file = "mods/create_connected-1.1.10-mc1.20.1-all.jar"
 hash = "997619c2496ccfb0dd99cc8dca078678161feacd365ad38401e21f678b48278f"
-
-[[files]]
-file = "mods/create_radar-0.3.1+mc1.20.1-all.jar"
-hash = "93174457fac53a46eb021181ee0c1e0a310591193e73fabe6c4550ed8e39367f"
 
 [[files]]
 file = "mods/createnuclear.pw.toml"
@@ -1653,10 +1654,6 @@ hash = "7c411a566d022680769ddb8323984fff292ddeb35e7d8fcfe2cc41b9885d9557"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
-hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
-
-[[files]]
 file = "mods/mo-than-enough-guns.pw.toml"
 hash = "9506387f686d35721f1722a3393c81489a6cdec7ed16057b3fe918beeb3c758b"
 metafile = true
@@ -1704,6 +1701,11 @@ metafile = true
 [[files]]
 file = "mods/powergrid-mc1.20.1-0.3.5-v6.0.6.jar"
 hash = "e2abb25fbc7cd2ac3637b0eabd48823aa79fe361098ca0e9f0689b9932b77c6b"
+
+[[files]]
+file = "mods/project-1029454.pw.toml"
+hash = "b4b74b7292223d98fe08a1cdb74f716472476150ab7b284bf143a5f7cfc0f9dc"
+metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
@@ -1877,8 +1879,9 @@ file = "mods/voicechat-forge-1.20.1-2.6.7.jar"
 hash = "aa235907ef3689cf21e1f0a79bf06cd6e821cd975f50989204f3d51de05de37f"
 
 [[files]]
-file = "mods/vsafe-forge-1201-1.1.1.jar"
-hash = "1683b3a29180d4c0f52b25b8ad3c599525b8f4cbe25c6f6d40915417fb8570ec"
+file = "mods/vs-safe-and-sound.pw.toml"
+hash = "4e11cbb7c6b15740380c894d1710cf0feeb717ef023ef07655528130e2d2cd4d"
+metafile = true
 
 [[files]]
 file = "mods/vsplit.pw.toml"
