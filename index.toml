@@ -133,11 +133,6 @@ file = "mods/ccbr-1.2.0-backport-forge-1.20.1.jar"
 hash = "1fdc672a6bce6cdc8052fa80ed4081983afc2ab8ffaae908fe6c5a207c82da17"
 
 [[files]]
-file = "mods/chamber-clarity-tac-z.pw.toml"
-hash = "5862d83d768e86553efdbb32b1ec7442845dbae7888944cfff95498148c8ec4d"
-metafile = true
-
-[[files]]
 file = "mods/chamber_clarity-3.0.0-1.20.1.jar"
 hash = "f68e78488f3731d27451ecd23d9d756d1777607b2f29dd835932f5842ce042c6"
 
@@ -504,11 +499,6 @@ metafile = true
 [[files]]
 file = "mods/petrolpark-1.20.1-1.4.23-all.jar"
 hash = "6ea10b19d6f9a8217d9f03eabc7d14bc27f159b2ddd6f26a78fa995cec5120ce"
-
-[[files]]
-file = "mods/petrolpark.pw.toml"
-hash = "08db67f5571e690b026c38becb5c5273fc95b8519124cd046112529104605784"
-metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
