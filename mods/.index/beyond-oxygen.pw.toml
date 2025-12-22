@@ -1,0 +1,16 @@
+filename = 'beyond_oxygen-0.12.6.jar'
+name = 'Beyond Oxygen'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '83e355ad8b9bb2f0b2e773dd30701ad20ef48c6a0d051ae889f60942af72636e866930f5f2ef5256d127fdadb03c2641f28c1f04c7fd1b8a999711c7f8a43cee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2T6G6FBO/versions/jGmTyUiT/beyond_oxygen-0.12.6.jar'
+
+[update.modrinth]
+mod-id = '2T6G6FBO'
+version = 'jGmTyUiT'

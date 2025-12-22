@@ -1,0 +1,16 @@
+filename = 'crystallized-1.1-FORGE.jar'
+name = 'Create: Crystallized'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f8e2dbf6914d58550e50e5388118a9f3aa6b5512713ef583f9fb56a8d1dd1c2496ee19f6a7d2ffcf2b43e83430c381d4c578da3a50f721b6b12d136f7c1ebbaa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YiHKehNS/versions/YOBRUG8l/crystallized-1.1-FORGE.jar'
+
+[update.modrinth]
+mod-id = 'YiHKehNS'
+version = 'YOBRUG8l'

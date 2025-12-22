@@ -1,0 +1,16 @@
+filename = 'createpropulsion-0.2.2a.jar'
+name = 'Create: Propulsion'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7baf898392544a34aea1c4a2fb432a14d062b70a9f0528683393b86b2d5c75ef51ca10b5b6d95e497376fa3a481d8d958706ff0e37f9667ae4c2ffab4cf8e2d3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fmudhH0S/versions/dVAGdLiv/createpropulsion-0.2.2a.jar'
+
+[update.modrinth]
+mod-id = 'fmudhH0S'
+version = 'dVAGdLiv'

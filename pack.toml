@@ -1,13 +1,13 @@
-name = "Sisyphus"
-author = "SDT"
-version = "2.0.0"
+name = "Sisyphus S3"
+author = "Sisyphus Dev Team"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d852be23f08f180f15abdb0b10ebf1238c2128538d91055f4ed9e482f9357cf7"
+hash = "fdb953231ff6de68a4e02b3e6f9d8e8f905aac5127086c299d494563a1b61779"
 
 [versions]
-forge = "47.4.10"
+forge = "47.4.13"
 minecraft = "1.20.1"

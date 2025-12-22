@@ -1,0 +1,16 @@
+filename = 'VSplit-forge-1.20.1-0.3.0.jar'
+name = 'VSplit'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd7794e37a38f4641b5d4091711ac3edf51d68a5cc76acda3a688c8a5b227907c5ad69d30f05918ce1c5e6db18c9cfdacd6221f22f6856515fb6b59538840f699'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q9Ia9mWM/versions/83A0vvOp/VSplit-forge-1.20.1-0.3.0.jar'
+
+[update.modrinth]
+mod-id = 'Q9Ia9mWM'
+version = '83A0vvOp'

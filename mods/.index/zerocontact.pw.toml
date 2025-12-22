@@ -1,0 +1,16 @@
+filename = 'ZeroContact-main-build-41-227c077.jar'
+name = 'ZeroContact'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '3ad3864ff07070743842e7887e8a661881b7c490c0485e8093f4fefb68db113d3a5314fcbc520a68eebbcbd74b2114abdc00e796ebcafdd8f59819472166f88d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KfjYGgAD/versions/ItgKiFOG/ZeroContact-main-build-41-227c077.jar'
+
+[update.modrinth]
+mod-id = 'KfjYGgAD'
+version = 'ItgKiFOG'

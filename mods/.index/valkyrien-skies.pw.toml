@@ -1,0 +1,16 @@
+filename = 'valkyrienskies-120-2.3.0-beta.12.jar'
+name = 'Valkyrien Skies'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'affd069e50539c734e783739b2513ae0fbc6195117d14fa826f950ecdeeca5ad2b5116c6d1f3fa54fc3dcc0ef0f491db77933c8bc7ff2fd557fded7e408f678b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/V5ujR2yw/versions/9TtF0Jtc/valkyrienskies-120-2.3.0-beta.12.jar'
+
+[update.modrinth]
+mod-id = 'V5ujR2yw'
+version = '9TtF0Jtc'
