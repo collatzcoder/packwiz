@@ -1545,6 +1545,10 @@ hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
+file = "mods/holy_destroy.jar"
+hash = "cf4df717fd7bb69c1650ddaad683bb901747b38b1bb84c13171a83214be8d29e"
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "eb089373d47632a85bb7596b1143b719d7675f5e2782586aa0c340069d699700"
 metafile = true
