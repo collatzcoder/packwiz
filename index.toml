@@ -1610,11 +1610,6 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
-file = "mods/lost-cities-modern-tweaks.pw.toml"
-hash = "ad3225eab53e2301ad2d3aced28e784cd34d2d7fb6db4c5c07a48f765e4a563e"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "4f818ebe7421a0ae41154fb479273dab515993b76c194c815d824f98e4f53a5e"
 metafile = true
