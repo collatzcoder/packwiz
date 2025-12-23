@@ -1289,6 +1289,11 @@ file = "mods/ZeroContact-main-build-41-227c077.jar"
 hash = "548d13fd5d461939af2c189d918d0cdf3a2a0967e13535649600511631be68f6"
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "22023046d65c5c9c0cee0c575c44129414c8a702b06f2f0129ac918a4180495e"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
@@ -1305,7 +1310,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -1331,6 +1336,11 @@ metafile = true
 [[files]]
 file = "mods/beyond-oxygen.pw.toml"
 hash = "17774dd620fab47c3d33ef6f751d9d3d10a6aa69d17d4ae0d84832930c7ec12a"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "94615e505b64b850d3df7b50c292407a3b2f327ed1989c4e7d2907bb79785cde"
 metafile = true
 
 [[files]]
@@ -1368,6 +1378,16 @@ hash = "65b4c546e08bcdf0a2b84f12e1523f9a9e257b35a990511ded9c402c16f1c01e"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "4d5ba0ec7ea7abf0ef76f3f08853bd7c886eec95b1795cbeacaba8bc608e2913"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "00bcb49250fa1f8e533a321cd650e8e57e3d7f7b6178e0f92c21b93736bfb6a8"
 metafile = true
@@ -1388,8 +1408,18 @@ hash = "0f0b0de9a119d9577a5948fbf33d4ffcecb2b17159ba99f2b910da75574acba4"
 metafile = true
 
 [[files]]
+file = "mods/create-ccbr.pw.toml"
+hash = "98aa4e442b69310dab1bd29362b82ba7a5445b09500027509e800f4b3260b7ff"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "967c38265800a8b2353debf37ab919204a1f89e4a57e2e603b7a7de1d68c8956"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "aa8711ff3f1d590b8c3e4e092927e5a697d585e21c52107ddc559c93ffebdaed"
 metafile = true
 
 [[files]]
@@ -1469,7 +1499,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
@@ -1488,12 +1518,17 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
 file = "mods/destroy-1.20.1-0.1.3-all.jar"
 hash = "cf4df717fd7bb69c1650ddaad683bb901747b38b1bb84c13171a83214be8d29e"
+
+[[files]]
+file = "mods/destroy.pw.toml"
+hash = "3ec1b526c89e0cc060827954e50c14dfd8411380f73f733ab160c049fadc3470"
+metafile = true
 
 [[files]]
 file = "mods/dynamic-crosshair.pw.toml"
@@ -1552,7 +1587,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "62ef7e92478035b77e996189984e4749b2d876ed0a389977a2670a28f105bfd2"
+hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
 
 [[files]]
@@ -1567,7 +1602,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
+hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
@@ -1631,6 +1666,11 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
+file = "mods/lost-cities-modern-tweaks.pw.toml"
+hash = "ad3225eab53e2301ad2d3aced28e784cd34d2d7fb6db4c5c07a48f765e4a563e"
+metafile = true
+
+[[files]]
 file = "mods/lostcities-1.20-7.4.6.jar"
 hash = "42be36493eac9c8a72946b61b3d40c4637012e9513ffe3900fc59e3c86157d81"
 
@@ -1679,6 +1719,11 @@ hash = "11cd7da81a933aab04f091e2c25447b6d11ebe98bfeed244426a86dd31f3df04"
 metafile = true
 
 [[files]]
+file = "mods/mpalladium.pw.toml"
+hash = "f8a7285b7a1764d9673bb3a09a2e18dfd9b15540703cd990c6baceb267f9f717"
+metafile = true
+
+[[files]]
 file = "mods/no-mindless-shooting.pw.toml"
 hash = "8072dc719c745f717c1f77ccb3f041fa7ed44c1b9786ac5a84787dffc7d4befc"
 metafile = true
@@ -1716,6 +1761,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "7e878435f7360826c69f0abab6abf0b2b86b43fa4b31ce8cc39667a5f37ab566"
 metafile = true
 
 [[files]]
@@ -1772,6 +1822,11 @@ hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "086ae6b5cfa8a07be194343117c92c8139275a8dac28d4c3476081a0eb1d3386"
 metafile = true
@@ -1787,6 +1842,11 @@ hash = "9b59e9b08c1281a521777e9924dab6c258e42c5d1c06852b9ebe9304021aec42"
 metafile = true
 
 [[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
+metafile = true
+
+[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "5240c62752415b5d66d4beffec4fe98c253eba8ebcbb2a5c1097fc3ad3de0b00"
 metafile = true
@@ -1794,6 +1854,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
 hash = "1d7a0d4cdbdee61532dd23ddbc2833292e945d8ec2d20f3271af86b02b0fc108"
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
+metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
@@ -1855,6 +1920,11 @@ file = "mods/tgears-0.4.1-for-create-6.0.6.jar"
 hash = "4d11b5979d94c1f2888d6e9265eb0518540201b29c68ce5a0e1068f6a954572a"
 
 [[files]]
+file = "mods/the-lost-cities.pw.toml"
+hash = "40caf8beba9e7e44df835149bc8f707561a11e8e9d9f6a17cf3e701b5ac2d9fe"
+metafile = true
+
+[[files]]
 file = "mods/thin-air.pw.toml"
 hash = "4620218e6dcf673536b4271672d8d17dfb80600b87010244c26e2c5ec399b70b"
 metafile = true
@@ -1870,8 +1940,13 @@ hash = "da92e9606b616857fd108d05d713d93cd9f6c586ed00ca0b696cc90f19eba6b4"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-gears.pw.toml"
+hash = "eb4a2bc892c1c77ae021068c8450378c6153e5a7b9faf8f8645f4dfbb868788f"
+metafile = true
+
+[[files]]
 file = "mods/toadlib.pw.toml"
-hash = "8ecc0654176cfd4041b7bb9bb74c3eb65ccdc4d3a5753c7f0bf3114913dd2e73"
+hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
 metafile = true
 
 [[files]]
@@ -1926,6 +2001,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
 hash = "5484f52f5055b1bc42a21508214caf4a3a2c89353a49765b4be6cd24f7d5514e"
+metafile = true
+
+[[files]]
+file = "mods/zerocontact.pw.toml"
+hash = "d4b188d9495d0cc89d0e2bcbdf7c7682b5a336f9078328456a6b05133810469f"
 metafile = true
 
 [[files]]
