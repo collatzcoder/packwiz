@@ -933,22 +933,6 @@ file = "config/railways-common.toml"
 hash = "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f"
 
 [[files]]
-file = "config/reterraforged/exports/Wide Rivers (1).zip"
-hash = "2859c3bf426ea98bc889e42e6e3c7a604f0b905c40495a0ae0b9c4894d3c5459"
-
-[[files]]
-file = "config/reterraforged/presets/Wide Rivers (1).json"
-hash = "20d5716a8f9cefdd301d8d86d9312ec6027d206f87118aa366156f9a8952a5f9"
-
-[[files]]
-file = "config/reterraforged/presets/Wide Rivers.json"
-hash = "18c396972069d991b77cff75c0ebc45819fbc265971e6b3cb48b7b4f8d09bc4c"
-
-[[files]]
-file = "config/reterraforged/presets/syphilis.json"
-hash = "959e702a4693a762e6fd93ff60ef819ea94802806e3958b08fabe01f52b29e08"
-
-[[files]]
 file = "config/saturn-optimizations.toml"
 hash = "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3"
 
@@ -2564,10 +2548,6 @@ hash = "6b3515bc8d3b3e6da4e3ab1241b47da801f9d360b5979658a1a32da1b8fc6ec0"
 [[files]]
 file = "tacz/endlessammo/data/tacz/recipe_filters/default.json"
 hash = "c9a9f1dbf96805d50082f105cce7f0e9bfc8abea1bec6cabb84a2aa1f4174c5d"
-
-[[files]]
-file = "tacz/endlessammo/endlessammo.zip"
-hash = "bd63c233775b1f3393fafbafb4d4503949ee256a50075e1644aa152b051362b6"
 
 [[files]]
 file = "tacz/endlessammo/gunpack.meta.json"
