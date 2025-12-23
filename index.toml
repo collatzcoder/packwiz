@@ -1470,10 +1470,6 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
-file = "mods/destroy-1.20.1-0.1.3.awawi-r3-all (1).jar"
-hash = "c8fb9a3ee7e4769cf5aacbc6bd0b2313a883d428fcae000690d2c8d94507bf6f"
-
-[[files]]
 file = "mods/dynamic-crosshair.pw.toml"
 hash = "9d1a3f3e8a78af74498cf0570e01ea4f5345f56f5d70c96c91b2f8a7568e2d02"
 metafile = true
@@ -1686,6 +1682,11 @@ metafile = true
 [[files]]
 file = "mods/petrolpark.pw.toml"
 hash = "08db67f5571e690b026c38becb5c5273fc95b8519124cd046112529104605784"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "ee7905fd6574b870ba30073402da121d40ee4ea3b90967480605f2d38d7a1dc6"
 metafile = true
 
 [[files]]
