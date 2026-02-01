@@ -1,0 +1,7 @@
+{
+	"name": "sfms.attachment.gen_if.name",
+	"display": "sfms:gen_if_display",
+	"data": "sfms:gen_if_data",
+	"type": "extended_mag",
+    "sort": 24082
+}

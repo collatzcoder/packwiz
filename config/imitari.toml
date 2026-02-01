@@ -1,0 +1,19 @@
+
+["Gameplay Settings"]
+	#Whether placing blocks into CopyBlocks consumes items in survival mode
+	consumesItemsInSurvival = true
+	#Whether shift+empty hand removes copied blocks in survival mode (always works in creative)
+	allowSurvivalRemoval = false
+
+["Dynamic Systems"]
+	#Enable dynamic tag inheritance from copied blocks
+	enableDynamicTags = true
+	#List of tags that CopyBlocks should NOT inherit from copied blocks
+	#Format: 'namespace:path' (e.g., 'minecraft:dragon_immune', 'forge:ores')
+	#Default blacklist includes tags that could be exploited or break game balance
+	tagBlacklist = ["forge:relocation_not_supported", "forge:ores"]
+	#Whether CopyBlocks inherit hardness (mining speed) from copied blocks
+	copyHardness = true
+	#Whether CopyBlocks inherit explosion resistance from copied blocks
+	copyResistance = true
+

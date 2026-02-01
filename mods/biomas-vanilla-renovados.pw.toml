@@ -1,0 +1,13 @@
+name = "Biomas Vanilla Renovados | Renovated Vanilla Biomes"
+filename = "biomas_vanilla_renovados-1.7.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b57cc63c896f291e82b3453ae846d4a81ffeeb36"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7287047
+project-id = 1236266

@@ -1,0 +1,7 @@
+{
+	"name": "sfms.attachment.gen_ap.name",
+	"display": "sfms:gen_ap_display",
+	"data": "sfms:gen_ap_data",
+	"type": "extended_mag",
+    "sort": 24082
+}

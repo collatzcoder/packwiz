@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.gc_oem.name",
+	"tooltip": "sfms.attachment.gc_oem.tooltip",
+	"display": "sfms:gc_oem_display",
+	"data": "sfms:gc_oem_data",
+	"type": "grip",
+    "sort": 24080
+}

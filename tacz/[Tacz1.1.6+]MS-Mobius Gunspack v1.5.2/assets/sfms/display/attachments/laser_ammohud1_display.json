@@ -1,0 +1,40 @@
+{
+  "slot": "sfms:attachment/slot/laser_ammohud",
+  "model": "sfms:attachment/laser_ammohud1_geo",
+  "texture": "sfms:attachment/uv/laser_ammohud",
+  "adapter": "sf_laser",
+//   "lod": {
+//          "model": "tacz:attachment/lod/laser_lopro",
+//          "texture": "tacz:attachment/lod/laser_lopro"
+//  },
+  "text_show": {
+    // 作用的组名，该组的旋转点决定文本的位置和朝向
+    "ammotext": {
+      // 文本缩放，默认大小对于 BlockBench 里的 1
+      "scale": 0.6,
+      // 对齐方式：right，center，left
+      "align": "right",
+      // 阴影
+      "shadow": false,
+      // 文本颜色
+      "color": "#96e800",
+      // 亮度：1-15
+      "light": 15,
+      // 本地化，且支持PlaceholderAPI 风格的占位符
+      // 目前仅支持两个：%player_name% %ammo_count%
+      "text": "%ammo_count%"
+    },
+    "nametext":{
+      "scale": 0.45,
+      "align": "right",
+      "shadow": false,
+      "color": "#96e800",
+      "light": 15,
+      "text": "%player_name%"
+    }
+  },
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

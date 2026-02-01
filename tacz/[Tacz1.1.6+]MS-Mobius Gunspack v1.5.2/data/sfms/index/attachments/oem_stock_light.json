@@ -1,0 +1,7 @@
+{
+  "name": "tacz.attachment.oem_stock_light.name",
+  "display": "sfms:oem_stock_light_display",
+  "data": "sfms:oem_stock_light_data",
+  "type": "stock",
+  "sort": 24085
+}

@@ -1,0 +1,48 @@
+{
+  // 重量，增加至总重
+  "weight": 0.02,
+  // 穿透配置
+   "pierce": {
+	 "multiplier": 0.0
+   },
+   "damage": {
+    "percent": 0.15
+   },
+   "explosion": {
+  // 一但为 true，那么强行开启爆炸，默认为 false
+   "explode": true,
+	"radius": {
+  // 里面填写参照其他新方法的四个参数
+	"addend": 1.5
+	},
+   "damage": {
+  // 里面填写参照其他新方法的四个参数
+	"addend": 80.0
+   },
+  // 一但为 true，那么强行开启击退，默认为 false
+   "knockback": true,
+  // 一但为 true，那么强行开启破坏方块，默认为 false
+   "destroy_block": false,
+   "delay": {
+  // 里面填写参照其他新方法的四个参数
+		"addend": 1.0
+	}
+   },
+  // 腰射精度配置，最终数值越小越精准（新方法，推荐使用）
+   "inaccuracy": {
+    // 四个参数不需要全部写，可以自选其中的一个或多个（最终计算时会跳过没写的乘区）
+     "addend": 1.6
+   },
+  // 瞄准精度配置，最终数值越小越精准（新方法，推荐使用）
+   "aim_inaccuracy": {
+     "addend": 0.12
+   },
+  // 子弹速度配置
+   "ammo_speed": {
+     "multiplier": 0.65
+   },
+  // 护甲穿透配置
+   "armor_ignore":{
+     "multiplier": 0.5
+   }
+  }

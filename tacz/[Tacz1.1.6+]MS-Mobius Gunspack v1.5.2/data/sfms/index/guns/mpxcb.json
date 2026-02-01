@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.mpxcb.name",
+  "tooltip": "sfms.gun.mpxcb.desc",
+  "display": "sfms:mpxcb_display",
+  "data": "sfms:mpxcb_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "smg",
+  "sort": 24080
+}

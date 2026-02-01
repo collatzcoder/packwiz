@@ -1,0 +1,6 @@
+{
+  "name": "sfms.ammo.ms_bottle.name",
+  "display": "sfms:ms_bottle_display",
+  // 堆叠数量
+  "stack_size": 64
+}

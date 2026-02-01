@@ -1,0 +1,13 @@
+name = "Tinkers' Gears"
+filename = "tgears-0.4.1-for-create-6.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4a2ab71f9e34077b9e736a0934c079965783ccf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7381078
+project-id = 1413800

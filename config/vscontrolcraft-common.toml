@@ -1,0 +1,51 @@
+#------------------------------------
+#  Warning: Experimental
+#------------------------------------
+#  By Default, ComputerCraft Is Running at Game Thread. 
+#  When Enable This Settings, ComputerCraft Will Run at Another Thread Which Is Synced By VS Physics Thread. 
+#  This Feature Is Currently **Experimental**, It Might Cause Unknown Concurrent Issues
+"Enable Physics Thread Synced ComputerCraft" = false
+#------------------------------------
+#  Warning: Experimental
+#------------------------------------
+#  By Default, Tweaked Controller Transmit 15 Levels of Redstone Signal. 
+#  When Enable This Settings, Tweaked Controller Will Transmit It's Decimal Part in Control Craft 
+#  Copied Redstone Network, And Redstone Terminal Will Be Able To Read 256 Levels of The Axis Input
+#  However, Lectern Tweaked Controller Will Not Be Able To Read Axis From CC Peripheral
+#  Fix This By Calling setFullPrecision(true) Of The Lectern Peripheral Method
+"Enable Double Precision Tweaked Controller" = false
+#  Propagate Cimulink Bus Update To Physics Thread, May Reduce Latency When Using Cimulink In Physics Related Logic
+#  Some Time-Related Logic May Be Affected, Such As Delays (Which Are Based On Game Tick)
+#  This Is Stable, After Heavily Tested
+"Physics Thread Cimulink" = true
+#  Defines How Long Can Running-Dynamic Spatial Can Find A Running-Static One As It's Target
+#Range: 1 ~ 1024
+"Max Distance Spatial Can Link" = 256
+#  Defines The Square Radius Of Chunk Loader Loading Spec
+#Range: 1 ~ 64
+"Chunk Loader Radius" = 2
+#  Negative Input Usually Cause Positive Feedback And Make Things Goes Crazy
+#  When Enabled, The PID Controller Will Reverse Negative Input
+"No Negative PID Input" = true
+#  Defines How Far The Slide Constraint Can Slide
+#  A Farther Distance Is Unstable In Some Cases
+#Range: 0 ~ 1024
+"Physics Piston Max Slide Distance" = 32
+#  Defines The Maximum Force A Single Propeller Can Apply
+#Range: > 0
+"Propeller Max Force" = 300000
+#  Defines The Maximum Torque A Single Propeller Can Apply
+#Range: > 0
+"Propeller Max Torque" = 3000000
+#  Defines The Maximum Force A Single Jet Engine Can Apply
+#Range: > 0
+"Jet Max Force" = 300000
+#  Can Jet Engine Thrust Backwards (Thrust < 0), Very Useful For Prototype Design
+"Can Jet Thrust Back" = true
+#  Always Add Client Chunk Packet From Server, This May Avoid Client Chunk Hollowing Issue
+"Always Add Client Chunk" = false
+#  Always Render Cimulink Wire, Turn Off If You Think It's Ugly
+"Always Render Cimulink Wire" = true
+#  Always Request Cimulink Port Information, May Cause Network Burden, But Important for Debugging
+"Always Request Cimulink Port Information" = true
+

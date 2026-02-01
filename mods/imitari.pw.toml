@@ -1,0 +1,13 @@
+name = "Imitari"
+filename = "imitari-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7af41461eef29d7960fa8858db529aaef5f85f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7470198
+project-id = 1432106

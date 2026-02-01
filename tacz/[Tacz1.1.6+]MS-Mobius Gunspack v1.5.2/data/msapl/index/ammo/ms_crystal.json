@@ -1,0 +1,6 @@
+{
+  "name": "sfms.ammo.ms_crystal.name",
+  "display": "sfms:ms_crystal_display",
+  // 堆叠数量
+  "stack_size": 64
+}

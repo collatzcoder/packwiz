@@ -1,0 +1,6 @@
+{
+  "name": "sfms.ammo.30scp.name",
+  "display": "sfms:30scp_display",
+  // 堆叠数量
+  "stack_size": 60
+}

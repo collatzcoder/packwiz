@@ -1,0 +1,13 @@
+name = "TaCZ Blueprints"
+filename = "taczblueprints-1.20.1-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82fdd1485df84a3fb3c0881c2b58a4725bb5cf03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7169202
+project-id = 1363558

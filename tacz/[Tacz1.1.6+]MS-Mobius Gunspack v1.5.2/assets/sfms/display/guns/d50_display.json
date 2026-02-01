@@ -1,0 +1,42 @@
+{
+  "model": "sfms:gun/d50_geo",
+  "texture": "sfms:gun/uv/d50",
+  "hud": "sfms:gun/hud/d50",
+  "slot": "sfms:gun/slot/d50",
+  "animation": "sfms:d50",
+  "use_default_animation": "pistol",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "laser": {
+    "default_color": "0x00FF00",
+    "can_edit": true,
+    "length": 30,
+    "width": 0.01
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "kill": "sfms:d50/head_kill",
+    "shoot": "sfms:d50/d50_shoot",
+    "shoot_3p": "sfms:d50/handcannon_shoot_3p",
+    "silence": "sfms:d50/d50_shoots",
+    "silence_3p": "sfms:d50/d50_shoots",
+    "draw": "sfms:d50/handcannon_raise",
+    "put_away": "sfms:d50/handcannon_drop"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.d50.name",
+  "tooltip": "sfms.gun.d50.desc",
+  "display": "sfms:d50_display",
+  "data": "sfms:d50_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "pistol",
+  "sort": 24080
+}

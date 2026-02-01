@@ -1,0 +1,13 @@
+name = "Project TacZ NPCs (LEGACY)"
+filename = "project_tacz_npcs-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "418fc1e822a6f13db1f4dc02fd2201c7d9caf768"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7279889
+project-id = 1379490

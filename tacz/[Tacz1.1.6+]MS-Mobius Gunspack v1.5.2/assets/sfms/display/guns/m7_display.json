@@ -1,0 +1,36 @@
+{
+  "model": "sfms:gun/m7_geo",
+  "texture": "sfms:gun/uv/m7",
+  "hud": "sfms:gun/hud/m7",
+  "slot": "sfms:gun/slot/m7",
+  "animation": "sfms:m7",
+  "state_machine": "sfms:m13b_state_machine",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.125
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "sfms:m7/m7_shoot1",
+    "shoot_3p": "sfms:m7/m7_shoot1",
+    "silence": "sfms:m7/basb_silence",
+    "silence_3p": "sfms:m7/basb_silence_3p",
+    "draw": "sfms:m13b/m13b_raise_rattle",
+    "put_away": "sfms:m13b/m13b_drop_rattle"
+  }
+}

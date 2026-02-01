@@ -1,0 +1,13 @@
+name = "[SBW] Remoove recipe gun"
+filename = "mzrk-sbw-remoove-recipe-gun-v6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "436c2faeea8b49558aa20d0a46af7b4691234087"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7066911
+project-id = 1248419

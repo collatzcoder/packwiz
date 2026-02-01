@@ -1,0 +1,13 @@
+name = "BlinkLoad"
+filename = "blinkload-forge-1.2.1+mc1.20-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eae6964a16d3c4ee5c76b09606cfae2038970ce4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6040110
+project-id = 1082541

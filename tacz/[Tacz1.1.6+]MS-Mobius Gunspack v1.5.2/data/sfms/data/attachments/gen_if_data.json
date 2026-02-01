@@ -1,0 +1,16 @@
+{
+  // 重量，增加至总重
+  "weight": 0.02,
+  // 是否点燃目标（一但为 true，那么强行开启点燃）
+   "ignite": {
+     "entity": true,
+     "block": false
+   },
+  // 爆头配置
+   "head_shot":{
+     "addend": 0.3
+   },
+   "damage": {
+    "percent": 0.5
+   }
+  }

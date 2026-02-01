@@ -1,0 +1,7 @@
+{
+  "name": "sfms.ammo.50ich.name",
+  "tooltip": "sfms.ammo.50ich.desc",
+  "display": "sfms:50ich_display",
+  // 堆叠数量
+  "stack_size": 30
+}

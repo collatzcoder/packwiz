@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.tempus90s.name",
+  "tooltip": "sfms.gun.tempus90s.desc",
+  "display": "sfms:tempus90s_display",
+  "data": "sfms:tempus90s_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "shotgun",
+  "sort": 24080
+}

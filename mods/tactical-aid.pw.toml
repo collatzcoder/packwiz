@@ -1,0 +1,13 @@
+name = "Tactical Aid"
+filename = "tactical_aid-1.20.1-v1.3.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12aab55beed113ee6eaaa41a612c1fb74818144e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4986565
+project-id = 898306

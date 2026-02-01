@@ -1,0 +1,52 @@
+{
+  "model": "sfms:gun/tempus90s_geo",
+  "texture": "sfms:gun/uv/tempus90s",
+  "slot": "sfms:gun/slot/tempus90s",
+  "hud": "sfms:gun/hud/tempus90s",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "animation": "sfms:tempus90",
+  "use_default_animation": "rifle",
+  "iron_zoom": 1.5,
+  "zoom_model_fov": 65,
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.0, 1.0, 1.0]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.25
+  },
+  "shell": {
+    // 抛壳的初速度
+    "initial_velocity": [6, 2, -4.5],
+    // 抛壳随机变化的运动速度
+    "random_velocity": [2, 1.5, 0.5],
+    // 抛壳的加速度
+    "acceleration": [0.0, -12.5, 0.0],
+    // 抛壳的三轴角速度
+    "angular_velocity": [360, -1200, 90],
+    // 抛壳渲染存活时间，单位为秒
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "sfms:tempus90/tempus90_shoot4",
+    "shoot_3p": "sfms:tempus90/tempus90_shoot4",
+    "silence": "sfms:tempus90/tempus90_shoot4s",
+    "silence_3p": "sfms:tempus90/tempus90_shoot4s",
+    "draw": "sfms:tempus90/qbu88_draw",
+    "put_away": "sfms:tempus90/qbz951_put_away",
+    "reload_empty": "sfms:tempus90/qbz951_reload_empty",
+    "reload_tactical": "sfms:tempus90/qbz951_reload_tactical",
+    "inspect": "sfms:tempus90/qbz951_inspect",
+    "inspect_empty": "sfms:tempus90/qbu88_inspect_empty",
+    "dry_fire": "tacz:dry_fire",
+    "fire_select": "tacz:fire_select",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "tacz:kill"
+  }
+}

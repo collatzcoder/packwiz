@@ -1,0 +1,13 @@
+name = "[SBW]WarBorn Drones"
+filename = "wrbdrones-0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5db5051498702bbaccbbc27206c4215e9b78ba0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7495868
+project-id = 1383935

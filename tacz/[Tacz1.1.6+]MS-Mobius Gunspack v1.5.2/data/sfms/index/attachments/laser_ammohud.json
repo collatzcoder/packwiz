@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.laser_ammohud.name",
+	"tooltip": "sfms.attachment.laser_ammohud.tooltip",
+	"display": "sfms:laser_ammohud_display",
+	"data": "sfms:laser_ammohud_data",
+	"type": "laser",
+    "sort": 24080
+}

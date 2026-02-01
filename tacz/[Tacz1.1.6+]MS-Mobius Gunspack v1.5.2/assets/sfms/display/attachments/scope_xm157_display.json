@@ -1,0 +1,74 @@
+{
+  "slot": "sfms:attachment/slot/scope_xm157",
+  "model": "sfms:attachment/scope_xm157_geo",
+  "texture": "sfms:attachment/uv/scope_xm157",
+  "lod": {
+    "model": "sfms:attachment/lod/scope_xm157",
+    "texture": "sfms:attachment/lod/scope_xm157"
+  },
+  "zoom": [
+    4,
+	10,
+    25,
+    1.25
+  ],
+  "views": [
+    2,
+    2,
+	2,
+    1
+  ],
+  "views_fov": [
+    27.0,
+	20.0,
+    14.0,
+    60.0
+  ],
+  "text_show": {
+    // 作用的组名，该组的旋转点决定文本的位置和朝向
+    "ammo_count_text": {
+      // 文本缩放，默认大小对于 BlockBench 里的 1
+      "scale": 0.09375,
+      // 对齐方式：right，center，left
+      "align": "right",
+      // 阴影
+      "shadow": false,
+      // 文本颜色
+      "color": "#96e800",
+      // 亮度：1-15
+      "light": 15,
+      // 本地化，且支持PlaceholderAPI 风格的占位符
+      // 目前仅支持两个：%player_name% %ammo_count%
+      "text": "%ammo_count%"
+    },
+    "ammotext": {
+      // 文本缩放，默认大小对于 BlockBench 里的 1
+      "scale": 0.25,
+      // 对齐方式：right，center，left
+      "align": "left",
+      // 阴影
+      "shadow": false,
+      // 文本颜色
+      "color": "#96e800",
+      // 亮度：1-15
+      "light": 15,
+      // 本地化，且支持PlaceholderAPI 风格的占位符
+      // 目前仅支持两个：%player_name% %ammo_count%
+      "text": "%ammo_count%"
+    },
+    "custom_text_ammo":{
+      "scale": 0.0625,
+      "align": "center",
+      "shadow": false,
+      "color": "#ffffff",
+      "light": 15,
+      "text": "AMMO"
+    }
+  },
+  "scope": true,
+  "sight": true,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_c",
+    "uninstall": "tacz:attachments/scope_general_c"
+  }
+}

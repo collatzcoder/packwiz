@@ -1,0 +1,54 @@
+
+#.
+#Configuration for menu buttons
+[menu_buttons]
+	#.
+	#
+	#Choose the menu row that the Lib Download menu button appears on in the main menu
+	#Set to 0 to disable the button altogether
+	#Range: 0 ~ 4
+	mainMenuLibButtonRow = 2
+	#.
+	#
+	#Offset the Lib Download menu button in the main menu by this many pixels on the X axis
+	#The sign (-/+) of this value determines what side of the row the button appears on (left/right)
+	#Range: > -2147483648
+	mainMenuLibButtonOffsetX = -28
+	#.
+	#
+	#Choose the menu row that the Lib Download menu button appears on in the ingame menu
+	#Set to 0 to disable the button altogether
+	#Range: 0 ~ 5
+	ingameMenuLibButtonRow = 3
+	#.
+	#
+	#Offset the Lib Download menu button in the ingame menu by this many pixels on the X axis
+	#The sign (-/+) of this value determines what side of the row the button appears on (left/right)
+	#Range: > -2147483648
+	ingameMenuLibButtonOffsetX = -28
+
+#.
+#Configuration for audio sources and playback
+[audio_sources]
+	#.
+	#Minimum pitch for audio playback
+	#Range: 0.10000000149011612 ~ 1.0
+	minPitch = 0.5
+	#.
+	#Maximum pitch for audio playback
+	#Range: 1.0 ~ 4.0
+	maxPitch = 2.0
+	#.
+	#Buffer time in seconds for audio playback
+	#Range: 0.009999999776482582 ~ 30.0
+	playbackBufferSeconds = 0.05000000074505806
+
+#.
+#Configuration for external library management
+[library]
+	#.
+	#Never show library installation disclaimer on startup
+	#When enabled, the library installation prompt will not appear on game startup
+	#You can still access the library installer through the in-game menu button
+	neverShowLibraryDisclaimer = true
+

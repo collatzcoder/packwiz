@@ -1,0 +1,18 @@
+
+[client]
+	#Enable client-side network optimizations
+	enableClientOptimizations = true
+	#Delay in milliseconds before sending batched packets
+	#Range: 0 ~ 1000
+	clientPacketBatchDelay = 50
+	#Maximum number of packets to batch together
+	#Range: 1 ~ 1024
+	clientPacketBatchSize = 64
+	#Show network statistics in F3 debug screen
+	showNetworkStats = false
+	#Show detailed compression statistics in F3 debug screen
+	showDetailedStats = false
+	#How often to update statistics in ticks (20 ticks = 1 second)
+	#Range: 1 ~ 100
+	statsUpdateFrequency = 20
+

@@ -1,0 +1,13 @@
+name = "CBC More Shells"
+filename = "cbcmoreshells-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25e583e44e7df7fe18ee64eee3dc718a6207b383"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7464049
+project-id = 1222164

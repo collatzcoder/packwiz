@@ -1,0 +1,13 @@
+name = "Atlas V3"
+author = "Atlas Dev Team"
+version = "1.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c45db7590193bb25ac0c26f18cc3dcb712b3665e840d28f3a3b28199eafedd00"
+
+[versions]
+forge = "47.4.13"
+minecraft = "1.20.1"

@@ -1,0 +1,6 @@
+{
+  "name": "sfms.ammo.inf.name",
+  "display": "sfms:inf_display",
+  // 堆叠数量
+  "stack_size": 60
+}

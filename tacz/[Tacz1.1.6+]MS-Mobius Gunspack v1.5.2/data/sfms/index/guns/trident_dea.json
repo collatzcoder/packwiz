@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.trident_dea.name",
+  "tooltip": "sfms.gun.trident_dea.desc",
+  "display": "sfms:trident_dea_display",
+  "data": "sfms:trident_dea_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "pistol",
+  "sort": 24080
+}

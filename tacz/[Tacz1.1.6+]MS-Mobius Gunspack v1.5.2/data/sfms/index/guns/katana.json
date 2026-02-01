@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.katana.name",
+  "tooltip": "sfms.gun.katana.desc",
+  "display": "sfms:katana_display",
+  "data": "sfms:katana_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "pistol",
+  "sort": 24080
+}

@@ -1,0 +1,42 @@
+{
+  "model": "sfms:gun/katana_geo",
+  "texture": "sfms:gun/uv/katana",
+  "slot": "sfms:gun/slot/katana",
+  "hud": "sfms:gun/hud/katana",
+  "animation": "sfms:katana",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "use_default_animation": "pistol",
+  "iron_zoom": 1.5,
+  "zoom_model_fov": 45,
+  "third_person_animation": "default",
+  "state_machine": "sfms:katana_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.0, 1.0, 1.0]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "draw": "sfms:katana/katana_draw",
+    "put_away": "sfms:katana/katana_put_away",
+    "inspect": "sfms:katana/katana_inspect",
+    "inspect_empty": "sfms:katana/katana_inspect_empty",
+    "dry_fire": "sfms:dry_fire",
+    "fire_select": "sfms:fire_select",
+    "head_hit": "sfms:head_hit",
+    "flesh_hit": "sfms:flesh_hit",
+    "kill": "sfms:kill"
+  }
+}

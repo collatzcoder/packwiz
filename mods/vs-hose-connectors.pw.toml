@@ -1,0 +1,13 @@
+name = "VS Hose Connectors"
+filename = "vsHoseConnector-0.0.7-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a678ceab0ce7d7422a68669f8b5c5b91a5301be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7482838
+project-id = 1426984

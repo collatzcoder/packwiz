@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.sword_life.name",
+  "tooltip": "sfms.gun.sword_life.desc",
+  "display": "sfms:sword_life_display",
+  "data": "sfms:sword_life_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "pistol",
+  "sort": 24080
+}

@@ -1,0 +1,42 @@
+{
+  "show_crosshair": "true",
+  "model": "sfms:gun/trident_dea_geo",
+  "texture": "sfms:gun/uv/trident_dea",
+  "hud": "sfms:gun/hud/trident_dea",
+  "slot": "sfms:gun/slot/trident_dea",
+  "animation": "sfms:trident_dea",
+  "use_default_animation": "rifle",
+  "damage_style": "total",
+  "third_person_animation": "default",
+  "iron_zoom": 1,
+  "state_machine": "sfms:jumonji_yari_mk1_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "sounds": {
+    "dry_fire": "sfms:misc/empty",
+    "fire_select": "sfms:misc/empty",
+    "shoot_3p": "sfms:jumonji_yari_mk1/melee_3p",
+    "kill": "sfms:item/swcs_kill",
+    "melee_push": "sfms:misc/empty",
+    "head_hit": "sfms:sfms_guns/awmmog1",
+    "flesh_hit": "sfms:sfms_guns/awmmog2",
+    "melee_stock": "sfms:misc/empty"
+  },
+  "offhand_show": {
+    "pos": [1, 19, 4],
+    "rotate": [0, 0, 50],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

@@ -1,0 +1,156 @@
+
+[targets]
+	#Entity IDs Hazmat targets by default
+	hazmat = ["minecraft:player", "minecraft:villager", "minecraft:iron_golem", "project_tacz_npcs:dark_wanderer", "project_tacz_npcs:forest_soldier", "project_tacz_npcs:juggernaut", "project_tacz_npcs:shadow_soldier"]
+	#Entity IDs Dark Wanderer targets by default
+	dark_wanderer = ["minecraft:player", "minecraft:villager", "minecraft:iron_golem", "project_tacz_npcs:hazmat_soldier", "project_tacz_npcs:forest_soldier", "project_tacz_npcs:juggernaut", "project_tacz_npcs:shadow_soldier"]
+	#Entity IDs Forest Soldier targets by default
+	forest_soldier = ["minecraft:player", "minecraft:villager", "minecraft:iron_golem", "project_tacz_npcs:hazmat_soldier", "project_tacz_npcs:dark_wanderer", "project_tacz_npcs:juggernaut", "project_tacz_npcs:shadow_soldier"]
+	#Entity IDs Juggernaut targets by default
+	juggernaut = ["minecraft:player", "minecraft:villager", "minecraft:iron_golem", "project_tacz_npcs:hazmat_soldier", "project_tacz_npcs:dark_wanderer", "project_tacz_npcs:forest_soldier", "project_tacz_npcs:shadow_soldier"]
+	#Entity IDs Shadow Soldier targets by default
+	shadow_soldier = ["minecraft:player", "minecraft:villager", "minecraft:iron_golem", "project_tacz_npcs:hazmat_soldier", "project_tacz_npcs:dark_wanderer", "project_tacz_npcs:forest_soldier", "project_tacz_npcs:juggernaut"]
+
+[combat]
+
+	[combat.hazmat]
+		#Ticks to wait after acquiring a target before engaging (still tracks/aims during delay)
+		#Range: 0 ~ 400
+		engage_delay_ticks = 1
+		#Ticks between reassessing nearest valid target (lower = more responsive)
+		#Range: 1 ~ 40
+		retarget_interval_ticks = 3
+		#Range: 0.0 ~ 15.0
+		inaccuracy_deg = 4.0
+		#If true, Hazmat will not retaliate against another Hazmat when damaged by one
+		anti_friendly_fire = true
+
+	[combat.dark_wanderer]
+		#Range: 0 ~ 400
+		engage_delay_ticks = 1
+		#Range: 1 ~ 40
+		retarget_interval_ticks = 3
+		#Range: 0.0 ~ 15.0
+		inaccuracy_deg = 4.0
+		#If true, Dark Wanderer will not retaliate against another Dark Wanderer when damaged by one
+		anti_friendly_fire = true
+
+	[combat.forest_soldier]
+		#Range: 0 ~ 400
+		engage_delay_ticks = 1
+		#Range: 1 ~ 40
+		retarget_interval_ticks = 3
+		#Range: 0.0 ~ 15.0
+		inaccuracy_deg = 4.5
+		#If true, Forest Soldier will not retaliate against another Forest Soldier when damaged by one
+		anti_friendly_fire = true
+
+	[combat.juggernaut]
+		#Range: 0 ~ 400
+		engage_delay_ticks = 20
+		#Range: 1 ~ 40
+		retarget_interval_ticks = 3
+		#Range: 0.0 ~ 15.0
+		inaccuracy_deg = 5.0
+		#If true, Juggernaut will not retaliate against another Juggernaut when damaged by one
+		anti_friendly_fire = true
+
+	[combat.shadow_soldier]
+		#Range: 0 ~ 400
+		engage_delay_ticks = 1
+		#Range: 1 ~ 40
+		retarget_interval_ticks = 3
+		#Range: 0.0 ~ 15.0
+		inaccuracy_deg = 4.0
+		#If true, Shadow Soldier will not retaliate against another Shadow Soldier when damaged by one
+		anti_friendly_fire = true
+
+[attributes]
+
+	[attributes.hazmat]
+		#Range: 1.0 ~ 2000.0
+		max_health = 20.0
+		#Range: 0.0 ~ 100.0
+		armor = 2.0
+		#Range: 8.0 ~ 200.0
+		follow_range = 48.0
+		#Range: 0.0 ~ 1.0
+		knockback_resistance = 0.1
+
+	[attributes.dark_wanderer]
+		#Range: 1.0 ~ 2000.0
+		max_health = 20.0
+		#Range: 0.0 ~ 100.0
+		armor = 4.0
+		#Range: 8.0 ~ 200.0
+		follow_range = 48.0
+		#Range: 0.0 ~ 1.0
+		knockback_resistance = 0.1
+
+	[attributes.forest_soldier]
+		#Range: 1.0 ~ 2000.0
+		max_health = 30.0
+		#Range: 0.0 ~ 100.0
+		armor = 6.0
+		#Range: 8.0 ~ 200.0
+		follow_range = 48.0
+		#Range: 0.0 ~ 1.0
+		knockback_resistance = 0.1
+
+	[attributes.juggernaut]
+		#Range: 1.0 ~ 2000.0
+		max_health = 80.0
+		#Range: 0.0 ~ 100.0
+		armor = 12.0
+		#Range: 8.0 ~ 200.0
+		follow_range = 48.0
+		#Range: 0.0 ~ 1.0
+		knockback_resistance = 0.6
+
+	[attributes.shadow_soldier]
+		#Range: 1.0 ~ 2000.0
+		max_health = 30.0
+		#Range: 0.0 ~ 100.0
+		armor = 6.0
+		#Range: 8.0 ~ 200.0
+		follow_range = 48.0
+		#Range: 0.0 ~ 1.0
+		knockback_resistance = 0.1
+
+[spawn]
+
+	[spawn.hazmat]
+		enabled = true
+		overworld = true
+		nether = true
+		end = false
+		exclude_deep_dark = true
+
+	[spawn.dark_wanderer]
+		enabled = true
+		overworld = true
+		nether = false
+		end = false
+		exclude_deep_dark = true
+
+	[spawn.forest_soldier]
+		enabled = true
+		overworld = true
+		nether = false
+		end = false
+		exclude_deep_dark = true
+
+	[spawn.juggernaut]
+		enabled = true
+		overworld = true
+		nether = false
+		end = false
+		exclude_deep_dark = true
+
+	[spawn.shadow_soldier]
+		enabled = true
+		overworld = true
+		nether = false
+		end = false
+		exclude_deep_dark = true
+

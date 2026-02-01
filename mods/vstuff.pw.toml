@@ -1,0 +1,13 @@
+name = "vstuff"
+filename = "vstuff-0.2.5-fix1+274ab248dc.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ce20a53fe5c09ba84800ee74942a04901259ea4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7536895
+project-id = 1319439

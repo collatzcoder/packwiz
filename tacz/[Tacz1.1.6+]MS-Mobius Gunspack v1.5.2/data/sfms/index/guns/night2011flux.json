@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.night2011flux.name",
+  "tooltip": "sfms.gun.night2011flux.desc",
+  "display": "sfms:night2011flux_display",
+  "data": "sfms:night2011flux_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "smg",
+  "sort": 24080
+}

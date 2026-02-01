@@ -1,0 +1,18 @@
+{
+  "weight": 0.25,
+   "damage": {
+	"addend": 60
+   },
+  // 子弹速度配置
+   "ammo_speed": {
+	"addend": 7
+   },
+  // 穿透配置
+   "pierce": {
+	"addend": 44
+   },
+  // 护甲穿透配置
+   "armor_ignore":{
+    "addend": 0.3
+   }
+}

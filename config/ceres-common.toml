@@ -1,0 +1,55 @@
+
+[common]
+	#Network optimization mode: VANILLA (Forge network system) or MODERN (direct Netty)
+	#Allowed Values: VANILLA, MODERN
+	optimizationMode = "VANILLA"
+	#Enable packet compression
+	enableCompression = true
+	#Minimum packet size in bytes before compression is applied
+	#Range: 64 ~ 8192
+	compressionThreshold = 256
+	#Compression level for standard Java compression (0-9)
+	#Range: 0 ~ 9
+	compressionLevel = 3
+	#Enable detailed logging for debugging
+	enableLogging = false
+	#Enable compatibility mode for problematic mods
+	enableCompatibilityMode = true
+	#Enable direct Netty optimizations (only used in MODERN mode)
+	enableNettyOptimization = true
+	#Filter duplicate packets to reduce network traffic
+	enableDuplicateFiltering = true
+	#Time in milliseconds before a duplicate packet can be sent again
+	#Range: 100 ~ 5000
+	duplicateTimeoutMs = 500
+	#Maximum number of consecutive duplicate packets to filter
+	#Range: 1 ~ 20
+	maxConsecutiveDuplicates = 3
+	#Filter duplicate position packets
+	filterPositionPackets = true
+	#Filter duplicate chunk packets
+	filterChunkPackets = true
+	#Filter duplicate entity packets
+	filterEntityPackets = true
+
+	[common.advanced_compression]
+		#Compression engine to use: AUTO (select best), JAVA (built-in), LIBDEFLATE (high performance)
+		#Allowed Values: AUTO, JAVA, LIBDEFLATE
+		compressionEngine = "AUTO"
+		#Use native compression library if available (faster but may cause issues on some systems)
+		useNativeCompression = true
+		#Compression level for LIBDEFLATE engine (0-12, higher = better compression but slower)
+		#Range: 0 ~ 12
+		advancedCompressionLevel = 6
+		#Compression format to use: DEFLATE, ZLIB, or GZIP
+		#Allowed Values: DEFLATE, ZLIB, GZIP
+		compressionFormat = "ZLIB"
+		#Dynamically adjust compression based on network conditions
+		enableAdaptiveCompression = true
+		#Network congestion threshold to trigger more aggressive compression (ms)
+		#Range: 10 ~ 1000
+		adaptiveThreshold = 100
+		#Minimum packet size to apply compression (bytes)
+		#Range: 64 ~ 8192
+		minPacketSizeToCompress = 256
+

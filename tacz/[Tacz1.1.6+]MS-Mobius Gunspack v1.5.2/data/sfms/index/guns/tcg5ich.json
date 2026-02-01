@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.tcg5ich.name",
+  "tooltip": "sfms.gun.tcg5ich.desc",
+  "display": "sfms:tcg5ich_display",
+  "data": "sfms:tcg5ich_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "pistol",
+  "sort": 24080
+}

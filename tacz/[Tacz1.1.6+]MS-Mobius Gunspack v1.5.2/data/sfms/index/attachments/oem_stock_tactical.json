@@ -1,0 +1,7 @@
+{
+  "name": "tacz.attachment.oem_stock_tactical.name",
+  "display": "sfms:oem_stock_tactical_display",
+  "data": "sfms:oem_stock_tactical_data",
+  "type": "stock",
+  "sort": 24085
+}

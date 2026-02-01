@@ -1,0 +1,6 @@
+{
+  "name": "sfms.ammo.ms_gunpowder.name",
+  "display": "sfms:ms_gunpowder_display",
+  // 堆叠数量
+  "stack_size": 64
+}

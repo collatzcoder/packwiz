@@ -1,0 +1,7 @@
+{
+	"name": "sfms.attachment.gen_he.name",
+	"display": "sfms:gen_he_display",
+	"data": "sfms:gen_he_data",
+	"type": "extended_mag",
+    "sort": 24082
+}

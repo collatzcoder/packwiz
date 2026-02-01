@@ -1,0 +1,54 @@
+{
+  "gunsmithlib_extension": {
+    "attribute_modifiers": [
+      {
+        // 修饰器作用的属性
+        "attribute": "gunsmithlib:aim_lock_angle",
+        // 修饰器id。
+        // 请使用 https://www.uuidgenerator.net/ 生成独特的 uuid，
+        // 你使用的 uuid 不应该与任何你看到的 uuid 相同，除非你明确知道这样做会导致什么后果。
+        "id": "318c3d3d-b550-4604-824b-b31a4dc01b38",
+        "name": "Fire Control System",
+        // 修饰器的值
+        "amount": "1",
+        // 修饰器的运算模式
+        // 可选，默认为 ADDITION（加算）
+        "operation": "ADDITION"
+      },
+      {
+        // 修饰器作用的属性
+        "attribute": "gunsmithlib:aim_lock_range",
+        // 修饰器id。
+        // 请使用 https://www.uuidgenerator.net/ 生成独特的 uuid，
+        // 你使用的 uuid 不应该与任何你看到的 uuid 相同，除非你明确知道这样做会导致什么后果。
+        "id": "128c3d3d-b850-4604-224b-b31a4dc21b31",
+        "name": "Fire Control System",
+        // 修饰器的值
+        "amount": "500",
+        // 修饰器的运算模式
+        // 可选，默认为 ADDITION（加算）
+        "operation": "ADDITION"
+      }
+    ]
+	},
+  "weight": 0.9,
+  "ads": {
+    "addend": 0.12
+  },
+  "aim_inaccuracy": {
+    "multiplier": 0.66
+  },
+  "inaccuracy_addend": -0.1,
+  "recoil_modifier": {
+    // 竖直方向偏转削减的大小，范围-1~0
+    "pitch": -0.05
+  },
+   "armor_ignore":{
+	"addend": 0.03
+   },
+  // 爆头配置
+   "head_shot":{
+   "addend": 0.07
+  // "multiplier": 1.5
+   }
+}

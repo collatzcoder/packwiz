@@ -1,0 +1,13 @@
+name = "Immersive Healing"
+filename = "immersive_healing-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4dedb6bdfed99895d4b5ef8bb0fd60cedb572701"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6920377
+project-id = 1333390

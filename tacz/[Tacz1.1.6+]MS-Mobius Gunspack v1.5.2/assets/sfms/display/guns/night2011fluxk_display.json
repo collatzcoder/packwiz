@@ -1,0 +1,47 @@
+{
+  "model": "sfms:gun/night2011fluxk_geo",
+  "texture": "sfms:gun/uv/night2011fluxk",
+  "slot": "sfms:gun/slot/night2011fluxk",
+  "hud": "sfms:gun/hud/night2011fluxk",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "animation": "sfms:night2011fluxk",
+  "use_default_animation": "rifle",
+  "iron_zoom": 1.5,
+  "zoom_model_fov": 45,
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.8, 0.8, 0.8],
+      "ground": [0.8, 0.8, 0.8],
+      "fixed": [1.0, 1.0, 1.0]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "sfms:flash/emx_muzzle_flash_b",
+    "scale": 1
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "sfms:sfms_guns/night2011shoot1",
+    "shoot_3p": "sfms:sfms_guns/night2011shoot1",
+    "silence": "sfms:cibpm9/pm9_silence",
+    "silence_3p": "sfms:cibpm9/pm9_silence_3p",
+    "draw": "sfms:cibpm9/pm9_draw",
+    "put_away": "sfms:cibpm9/pm9_put_away",
+    "reload_empty": "sfms:cibpm9/pm9_reload_empty",
+    "reload_tactical": "sfms:cibpm9/pm9_reload_tactical",
+    "inspect": "sfms:cibpm9/pm9_inspect",
+    "inspect_empty": "sfms:cibpm9/pm9_inspect_empty",
+    "dry_fire": "tacz:dry_fire",
+    "fire_select": "tacz:fire_select",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "tacz:kill"
+  }
+}

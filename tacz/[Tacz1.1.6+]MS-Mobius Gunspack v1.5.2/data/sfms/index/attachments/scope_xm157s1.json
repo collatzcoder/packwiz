@@ -1,0 +1,9 @@
+{
+  "hidden": false,
+  "name": "sfms.attachment.scope_xm157s1.name",
+  "tooltip": "sfms.attachment.scope_xm157.tooltip",
+  "display": "sfms:scope_xm157s1_display",
+  "data": "sfms:scope_xm157_data",
+  "type": "scope",
+  "sort": 24080
+}
