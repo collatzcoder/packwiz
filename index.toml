@@ -130,7 +130,7 @@ hash = "b477c8c493b28366a6b282f29f46c9415e3a4a2a23fff6e09331644c435dfd48"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles-mixin.properties"
-hash = "3e6adf880117495d5b687153ca6a1aaf61a0cfb6bbf96cd43d90532b992870ba"
+hash = "e5f286cd9099729a2e47161dfcfac37ee59f38972cd78532d1212d03a32bca90"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles.json"
@@ -418,7 +418,7 @@ hash = "03666ca5d1fd2fa23406e92532186b0e729c46ed1fbce4aee88a26e237d77558"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "2088bb99af47b948f295433a2332cca7cd1ea42ae0dbbaa48a90ab84b8c5d76e"
+hash = "4697eb2574242f06ab21de6e213f5bc1e0cca2d48bb7a9fccd6a511116bf0ad0"
 
 [[files]]
 file = "config/factions.json"
@@ -514,7 +514,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "299ee60759c7470f4952fdd6b0a14bdf27fe7cb0b38b70500ab38d4de41e042b"
+hash = "cd3155e5b00c0294a06b3330968b921c97b253d08a491e7b205a615daa5aba26"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -539,6 +539,10 @@ hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
 hash = "ba8c2397c3e7d3c9620bc987c308edf9d48b4f00b5e77eb997cc3393bab2d3f0"
+
+[[files]]
+file = "config/jei/world/local/New_World/lookupHistory.ini"
+hash = "b5bbf3dcc000f037427e43880c1013b5cbff204cb7a88a39e2f1f233480dd724"
 
 [[files]]
 file = "config/justzoom/config.txt"
@@ -662,7 +666,7 @@ hash = "e7faca740e446892c2b651633d7b949042f409a536a6fedfa612ee2d03d3c9f9"
 
 [[files]]
 file = "config/mcreator_mem_fix.json"
-hash = "435467d32369cbda81b51c9196d0a3cca4e08d34e59238438c077006ba55c534"
+hash = "7da196bc4c5871249a6aed324c6af70ba26db2ae3d4b82a003c8f31a56f657ce"
 
 [[files]]
 file = "config/mekanismcovers.json"
@@ -710,11 +714,11 @@ hash = "dceda831a1a2585df3fb5f3baae348eb43a7179ced0609a8a47869dfb0243d71"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "1b733a720e4efcef224a04b4044fdab09f3d733ce320d3a1940ec44c9b6ded32"
+hash = "1d6afad8ab129ea095ee1c6edad9d9f23480029db3c397f67cc89231b05acc53"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "cb6171bcee8e010d1563ee291409b23ea47385f4dcf19894c82287334e421939"
+hash = "f21aeaa12c8afb908cbe35488f0ee7b6edb42d5ab1fd3a437428059f4c7805d1"
 
 [[files]]
 file = "config/particle_core_config.toml"
