@@ -21,7 +21,7 @@ let itemids=[
     'mekanism:spatial_pylon',
     'mekanism:spatial_anchor',
 
-    'tacz:ammo',
+    //tacz stuff
 
     'createbigcannons:flak_autcannon_round',
 
@@ -34,41 +34,25 @@ let itemids=[
     'zerocontact:ceramic_plate',
 
 
-    'mekanism:metallurgic_infuser',
-    'mekanismgenerators:heat_generator',
-    'mekanism:basic_universal_cable',
-    'mekanism:basic_chemical_tank',
-    'mekanism:basic_mechanical_pipe',
-    //'mekanism:basic__factory', 
-    'mekanism:basic_smelting_factory',
-    'mekanism:basic_enriching_factory',
-    'mekanism:basic_crushing_factory',
-    'mekanism:basic_compressing_factory',
-    'mekanism:basic_combining_factory',
-    'mekanism:basic_purifying_factory',
-    'mekanism:basic_injecting_factory',
-    'mekanism:basic_infusing_factory',
-    'mekanism:basic_sawing_factory',
-
     'cosmos:detonation_controler',
     'cosmos:detonation_target',
 
     'createbigcannons:cast_iron_ingot',
-    //logs craft
-    'createbigcannons:log_cannon_end',
-    'createbigcannons:log_cannon_chamber',
-    //cast iron, blast to make cast iron and then craft
-    'createbigcannons:cast_iron_cannon_end',
-    'createbigcannons:cast_iron_sliding_breech',
-    'createbigcannons:cast_iron_quickfiring_breech',   
-    'createbigcannons:cast_iron_cannon_chamber',
-    'createbigcannons:cast_iron_cannon_barrel',
-    //bronze, normal make then complex process
-    'createbigcannons:bronze_cannon_end',
-    'createbigcannons:bronze_sliding_breech',
-    'createbigcannons:bronze_quickfiring_breech',   
-    'createbigcannons:bronze_cannon_chamber',
-    'createbigcannons:bronze_cannon_barrel',  
+    
+
+      //trackwork(done)
+    'trackwork:large_simple_wheel',
+    'trackwork:simple_wheel',
+    'trackwork:med_simple_wheel',
+    'trackwork:small_simple_wheel',
+    'trackwork:oleo_wheel',
+
+    
+    //soph backpacks upgrades
+    'sophisticatedbackpacks:upgrade_base',
+
+    //broken bandages
+    'immersivehealing:bandage_small',
     
 ]
 let superbomits=[
@@ -82,43 +66,78 @@ let superbomits=[
     'superbwarfare:monitor',
     'superbwarfare:hand_grenade',
     'superbwarfare:rgo_grenade',
-    'superbwarfare:smoke_grenade',
+    'superbwarfare:m18_smoke_grenade',
     'superbwarfare:taser',
     'superbwarfare:rpg_rocket_standard',
     'superbwarfare:c4_bomb',
     'superbwarfare:claymore_mine',
     'superbwarfare:blu_43_mine',
     'superbwarfare:rpg',
+    'superbwarfare:propeller',
+    'superbwarfare:motor',
+    'superbwarfare:cell',
+    'superbwarfare:fusee',
+    'superbwarfare:high_energy_explosives',
+    'superbwarfare:grain',
+    'superbwarfare:primer',
+    'superbwarfare:detonator',
+    'superbwarfare:artillery_indicator',
+    'superbwarfare:firing_parameters',
+    'superbwarfare:ptkm_1r',
+    'superbwarfare:tm_62',
+    'superbwarfare:potion_mortar_shell',
+  'superbwarfare:taser_electrode',
+  'superbwarfare:crowbar',
+  'superbwarfare:monitor',
+  'superbwarfare:sandbag',
+  'superbwarfare:barbed_wire',
+  'superbwarfare:dragon_teeth',
+
+
+
     
 ]
 
-let noguns=[
+let tournamentomits=[
+  'vs_tournament:spinner',
+'vs_tournament:seat',
+'vs_tournament:sensor',
+'vs_tournament:explosive_instant_small',
+'vs_tournament:explosive_instant_medium',
+'vs_tournament:explosive_staged_small'
 
 ]
+
 ServerEvents.recipes(event =>{
 
-for(var i=0;i<itemids.length;i++){
-    event.remove({output: itemids[i] })
-}
 
-for(var i=0;i<noguns.length;i++){
-    event.remove({output: noguns[i] })
-}
+event.remove({output: itemids })
 
-event.remove({ not: {output: 'vs_tournament:ship_assembler' } , mod: vs_tournament})
-//note allow ship assembler
+event.remove({ not: {output: 'vs_tournament:ship_assembler' } , mod: 'vs_tournament'})
 
-event.remove({mod:cosmos})
+event.remove({mod:'cosmos'})
 
-for(var i=0;i<superbomits.length;i++){
-    event.remove({ not: { output:superbomits[i] }, mod: superbwarfare })
-}
+event.remove({not:{output:'createendertransmission:chunk_loader'},mod: 'createendertransmission'})
+
+event.remove({not:{output:superbomits},mod:'superbwarfare'})
+
+//if true is used for compacting it
 
 
 
+
+
+//dusts
+event.recipes.create.crushing(Item.of('mekanism:dust_copper').withChance(0.5),'minecraft:copper_ingot')
+event.recipes.create.crushing(Item.of('mekanism:dust_iron').withChance(0.5),'minecraft:iron_ingot')
+//straw to string
+event.recipes.create.cutting(Item.of('minecraft:string').withChance(0.25),'farmersdelight:straw')
 //cbc changes
 event.blasting( 'createbigcannons:cast_iron_ingot','minecraft:iron_ingot' )
 //logs
+
+//log and cast iron cannons
+if(true){
 event.shaped(
   Item.of(    'createbigcannons:log_cannon_end', 1), 
   [
@@ -188,7 +207,7 @@ event.shaped(
   }
 )
 event.shaped(
-    Item.of('createbigcannons:cast_iron_autocannon_breech'),
+    Item.of('createbigcannons:cast_iron_autocannon_breech',1),
     [
     ' A ',
     'A A', 
@@ -199,7 +218,7 @@ event.shaped(
   }
 )
 event.shaped(
-    Item.of('createbigcannons:cast_iron_autocannon_recoil_spring'),
+    Item.of('createbigcannons:cast_iron_autocannon_recoil_spring',1),
     [
     ' A ',
     'ABA', 
@@ -211,7 +230,7 @@ event.shaped(
   }
 )
 event.shaped(
-    Item.of('createbigcannons:cast_iron_autocannon_barrel'),
+    Item.of('createbigcannons:cast_iron_autocannon_barrel',1),
     [
     ' A ',
     ' A ', 
@@ -221,11 +240,10 @@ event.shaped(
     A: 'createbigcannons:cast_iron_block'
   }
 )
+}
 
-
-
-
-//bronze(brass actually)
+//bronze cannons
+if(true){
 let ingot='create:brass_ingot'
 let sheet='create:brass_sheet'
 let block='create:brass_block'
@@ -380,7 +398,71 @@ event.recipes.create.sequenced_assembly(
         event.recipes.create.cutting(t7,t7)
     ]
 ).transitionalItem(t7).loops(4)
+}
+//trackwork
+if(true){
 
+  event.shaped(
+    Item.of('trackwork:small_simple_wheel',1),
+    [
+      'AAA',
+      'ABA',
+      'AAA'
+    ],
+    {
+      A:'minecraft:dried_kelp',
+      B:'create:gearbox'
+    }
+  )
+  event.shaped(
+    Item.of('trackwork:med_simple_wheel',1),
+    [
+      'AAA',
+      'ABA',
+      'AAA'
+    ],
+    {
+      A:'minecraft:dried_kelp',
+      B:'trackwork:small_simple_wheel'
+    }
+  )
+  event.shaped(
+    Item.of('trackwork:simple_wheel',1),
+    [
+      'AAA',
+      'ABA',
+      'AAA'
+    ],
+    {
+      A:'minecraft:dried_kelp',
+      B:'trackwork:med_simple_wheel'
+    }
+  )
+  event.shaped(
+    Item.of('trackwork:large_simple_wheel',1),
+    [
+      'AAA',
+      'ABA',
+      'AAA'
+    ],
+    {
+      A:'minecraft:dried_kelp',
+      B:'trackwork:simple_wheel'
+    }
+  )
+  event.shaped(
+    Item.of('trackwork:oleo_wheel',1),
+    [
+      '   ',
+      ' A ',
+      'BAB'
+    ],
+    {
+      A:'trackwork:small_simple_wheel',
+      B:'create:shaft'
+    }
+  )
+}
 });
 
 let gunids=[]
@@ -398,17 +480,13 @@ for(var i=0;i<gunids.length;i++){
 //MAKE RECIPES FOR
 //flak shells
 
-    // MEK FACTORIES WITH TFMG
-    // 'mekanism:basic__factory', 'mekanism:basic__factory'smelting,'mekanism:basic_enriching_factory','mekanism:basic_crushing_factory','mekanism:basic_compressing_factory','mekanism:basic_combining_factory','mekanism:basic_purifying_factory','mekanism:basic_injecting_factory','mekanism:basic_infusing_factory','mekanism:basic_sawing_factory'
-
+    
     //ae2 autocrafting
     //ae2 all the changes we really need to do whatever they are
+    //ae2 has circuitry changes
 
     //gravitron-weaken
 
-    //make trackwork wheels cheaper, part of vehicle buffing
-
-    //mek generation remove? solar, heat(fs but recip or no?), gas burning, bio
 
     //zero contact plate steel si bc ceramic (process, diamond+quartz+2 zero contact steel sheets)
     //all zero contact armor
@@ -418,8 +496,6 @@ for(var i=0;i<gunids.length;i++){
     //controlcraft camera link (exposure camera+create link)
     
     //air thrusters? starlance
-
-    //ore excav recipe change (amethyst for wanderlite matrix bc difficulty)
 
     //tinkers blocks(tp, op stuff)
 
@@ -432,3 +508,45 @@ for(var i=0;i<gunids.length;i++){
     //ender transmission
 
     //add radar fuze recipe
+/*zerocontact:steel_plate
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:jpc_armor
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:avs_armor
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:si_plate
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:bc_plate
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:ceramic_plate
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:steel_ingot
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:steel_sheet
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:ceramic_shatters
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:fabric_roll
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:raider_egg
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:fast_mt
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:helmet_6b47_ratnik_emr
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:helmet_6b47_ratnik_arc
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armor_thor_black
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:helmet_bastion_black
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:helmet_bastion_multicam
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:helmet_bastion_green
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:helmet_untar_blue
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:mask_tagilla_manhunt
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:mask_tagilla_ybey
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:mask_cold_fear
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:cap_cyan
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armor_untar_blue
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armor_hexgrid_black
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:helmet_altyn_visor
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:helmet_airframe
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armor_6b2
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armor_6b23_1
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armor_6b23_2
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armor_defender_2
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:backpack_t20_umbra
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:backpack_t20_multicam
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:dog_tag
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armband_black
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armband_red
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armband_green
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armband_blue
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armband_white
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armband_yellow
+[19:31:22] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] - zerocontact:armband_flora
+*/

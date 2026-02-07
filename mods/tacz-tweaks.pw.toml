@@ -1,13 +1,13 @@
 name = "TaCZ Tweaks"
-filename = "tacz-tweaks-2.12.2-all.jar"
+filename = "tacz-tweaks-2.13.0-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f726c2d0ac2c77e3cc7f93fad7fd4338117c7a80"
+hash = "1b2d7873fd3e2150f339d0d36e588196a50061d1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7517023
+file-id = 7570412
 project-id = 1193263

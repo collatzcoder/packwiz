@@ -1,0 +1,48 @@
+
+#TacZ Additions - Server Config
+[server]
+	#If false, muzzle flash will not be sent to clients.
+	enableMuzzleFlash = true
+	#Vertical recoil multiplier for pistols
+	#Range: 0.0 ~ 10.0
+	recoilPistolVertical = 2.0
+	#Vertical recoil multiplier for rifles
+	#Range: 0.0 ~ 10.0
+	recoilRifleVertical = 3.0
+	#Vertical recoil multiplier for snipers
+	#Range: 0.0 ~ 10.0
+	recoilSniperVertical = 3.0
+	#Vertical recoil multiplier for SMGs
+	#Range: 0.0 ~ 10.0
+	recoilSMGVertical = 2.5
+	#Vertical recoil multiplier for shotguns
+	#Range: 0.0 ~ 10.0
+	recoilShotgunVertical = 4.0
+	#Vertical recoil multiplier for RPGs
+	#Range: 0.0 ~ 10.0
+	recoilRPGVertical = 6.0
+	#Vertical recoil multiplier for MGs
+	#Range: 0.0 ~ 10.0
+	recoilMGVertical = 5.0
+	#Horizontal recoil multiplier for pistols
+	#Range: 0.0 ~ 10.0
+	recoilPistolHorizontal = 2.0
+	#Horizontal recoil multiplier for rifles
+	#Range: 0.0 ~ 10.0
+	recoilRifleHorizontal = 4.0
+	#Horizontal recoil multiplier for snipers
+	#Range: 0.0 ~ 10.0
+	recoilSniperHorizontal = 1.0
+	#Horizontal recoil multiplier for SMGs
+	#Range: 0.0 ~ 10.0
+	recoilSMGHorizontal = 3.0
+	#Horizontal recoil multiplier for shotguns
+	#Range: 0.0 ~ 10.0
+	recoilShotgunHorizontal = 1.0
+	#Horizontal recoil multiplier for RPGs
+	#Range: 0.0 ~ 10.0
+	recoilRPGHorizontal = 3.0
+	#Horizontal recoil multiplier for MGs
+	#Range: 0.0 ~ 10.0
+	recoilMGHorizontal = 2.0
+

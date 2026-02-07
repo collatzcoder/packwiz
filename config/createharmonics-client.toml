@@ -42,6 +42,9 @@
 	#Buffer time in seconds for audio playback
 	#Range: 0.009999999776482582 ~ 30.0
 	playbackBufferSeconds = 0.05000000074505806
+	#.
+	#Override arguments for yt-dlp when requesting streaming URLs
+	ytdlpOverrideArgs = ""
 
 #.
 #Configuration for external library management
@@ -50,5 +53,5 @@
 	#Never show library installation disclaimer on startup
 	#When enabled, the library installation prompt will not appear on game startup
 	#You can still access the library installer through the in-game menu button
-	neverShowLibraryDisclaimer = true
+	neverShowLibraryDisclaimer = false
 

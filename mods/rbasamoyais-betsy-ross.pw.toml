@@ -1,0 +1,13 @@
+name = "rbasamoyai's Betsy Ross"
+filename = "betsyross-2.1.0+mc.1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e04755327ca546ffd0de720a54b4260223a90f1e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7055924
+project-id = 785325
